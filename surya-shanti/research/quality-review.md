@@ -8,7 +8,7 @@ Les 14 pages ont été examinées à 1440 × 1000 et 390 × 844. Captures compl�
 
 | Pages | Résultat de la revue |
 | --- | --- |
-| Accueil | Piscine au crépuscule en première vue ; atmosphère de Sidemen, cuisine, Spa, Yoga et histoire accessibles. |
+| Accueil | Vue aérienne des villas et de la piscine en première vue ; piscine au crépuscule dans la section suivante, selon la demande de Sarah. Atmosphère de Sidemen, cuisine, Spa, Yoga et histoire accessibles. |
 | Rooms et cinq fiches distinctes | Noms, équipements et photographies vérifiés ; aucun tarif ni capacité déduite. Galeries de quatre photos équilibrées avec une dernière image pleine largeur. |
 | Spa | Pavillon et photographies réelles de soins ; sept entrées consultables, durées limitées aux données officielles. |
 | Yoga | Vrai cours en portrait conservé entièrement ; sur téléphone, photographie avant le texte pour montrer l’expérience dès le premier écran. |
