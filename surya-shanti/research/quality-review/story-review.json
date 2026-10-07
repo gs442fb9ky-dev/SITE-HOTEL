@@ -1,0 +1,328 @@
+{
+  "desktop": {
+    "width": 1440,
+    "documentWidth": 1440,
+    "height": 10757,
+    "overflow": [],
+    "photos": [
+      {
+        "alt": "Three women in traditional dress, from the hotel’s friendship story",
+        "rendered": [
+          720,
+          720
+        ],
+        "natural": [
+          720,
+          720
+        ],
+        "objectFit": "contain"
+      },
+      {
+        "alt": "An aerial view of Surya Shanti’s thatched villas and pool in a green valley",
+        "rendered": [
+          490,
+          490
+        ],
+        "natural": [
+          935,
+          935
+        ],
+        "objectFit": "cover"
+      },
+      {
+        "alt": "Mount Agung rising above palm trees and greenery, with soft pink light on its slopes",
+        "rendered": [
+          1273,
+          771
+        ],
+        "natural": [
+          936,
+          702
+        ],
+        "objectFit": "cover"
+      },
+      {
+        "alt": "A person working a wet rice field with two cattle, surrounded by Sidemen’s green hills",
+        "rendered": [
+          753,
+          502
+        ],
+        "natural": [
+          935,
+          624
+        ],
+        "objectFit": "cover"
+      },
+      {
+        "alt": "Three smiling women seated together in orange, yellow and turquoise traditional clothing",
+        "rendered": [
+          435,
+          326
+        ],
+        "natural": [
+          935,
+          701
+        ],
+        "objectFit": "cover"
+      },
+      {
+        "alt": "Children and adults reading together, with children practising movement in the background at Pasraman Vidya Giri",
+        "rendered": [
+          1273,
+          849
+        ],
+        "natural": [
+          936,
+          623
+        ],
+        "objectFit": "cover"
+      },
+      {
+        "alt": "A group seated together with joined hands and bowls of flowers at the entrance of a building",
+        "rendered": [
+          645,
+          431
+        ],
+        "natural": [
+          936,
+          624
+        ],
+        "objectFit": "fill"
+      },
+      {
+        "alt": "A smiling group photographed in front of a carved entrance with yellow ceremonial umbrellas",
+        "rendered": [
+          548,
+          420
+        ],
+        "natural": [
+          935,
+          717
+        ],
+        "objectFit": "fill"
+      },
+      {
+        "alt": "Joël and Sylvie smiling together in the garden at Surya Shanti",
+        "rendered": [
+          626,
+          626
+        ],
+        "natural": [
+          936,
+          936
+        ],
+        "objectFit": "cover"
+      },
+      {
+        "alt": "The Surya Shanti team smiling together beneath a thatched roof, with the garden behind them",
+        "rendered": [
+          1040,
+          1040
+        ],
+        "natural": [
+          936,
+          936
+        ],
+        "objectFit": "contain"
+      },
+      {
+        "alt": "Surya Shanti’s villas and pool surrounded by tropical greenery",
+        "rendered": [
+          392,
+          490
+        ],
+        "natural": [
+          936,
+          1170
+        ],
+        "objectFit": "cover"
+      }
+    ],
+    "timeline": [
+      "2000",
+      "2010",
+      "2012",
+      "2021"
+    ],
+    "quote": "Come as a guest, leave as a family",
+    "contacts": [
+      {
+        "text": "Ask about visiting Pasraman\n↗",
+        "route": "/contact?interest=Pasraman%20Vidya%20Giri"
+      },
+      {
+        "text": "Start a conversation\n↗",
+        "route": "/contact"
+      }
+    ],
+    "errors": [],
+    "pasramanLink": {
+      "url": "http://127.0.0.1:5174/contact?interest=Pasraman%20Vidya%20Giri",
+      "interest": "Pasraman Vidya Giri"
+    },
+    "finalLink": "http://127.0.0.1:5174/contact"
+  },
+  "mobile": {
+    "width": 390,
+    "documentWidth": 390,
+    "height": 9551,
+    "overflow": [],
+    "photos": [
+      {
+        "alt": "Three women in traditional dress, from the hotel’s friendship story",
+        "rendered": [
+          390,
+          390
+        ],
+        "natural": [
+          390,
+          390
+        ],
+        "objectFit": "contain"
+      },
+      {
+        "alt": "An aerial view of Surya Shanti’s thatched villas and pool in a green valley",
+        "rendered": [
+          322,
+          322
+        ],
+        "natural": [
+          390,
+          390
+        ],
+        "objectFit": "cover"
+      },
+      {
+        "alt": "Mount Agung rising above palm trees and greenery, with soft pink light on its slopes",
+        "rendered": [
+          342,
+          257
+        ],
+        "natural": [
+          390,
+          292
+        ],
+        "objectFit": "cover"
+      },
+      {
+        "alt": "A person working a wet rice field with two cattle, surrounded by Sidemen’s green hills",
+        "rendered": [
+          342,
+          228
+        ],
+        "natural": [
+          390,
+          260
+        ],
+        "objectFit": "cover"
+      },
+      {
+        "alt": "Three smiling women seated together in orange, yellow and turquoise traditional clothing",
+        "rendered": [
+          280,
+          210
+        ],
+        "natural": [
+          390,
+          292
+        ],
+        "objectFit": "cover"
+      },
+      {
+        "alt": "Children and adults reading together, with children practising movement in the background at Pasraman Vidya Giri",
+        "rendered": [
+          342,
+          228
+        ],
+        "natural": [
+          390,
+          260
+        ],
+        "objectFit": "contain"
+      },
+      {
+        "alt": "A group seated together with joined hands and bowls of flowers at the entrance of a building",
+        "rendered": [
+          342,
+          228
+        ],
+        "natural": [
+          390,
+          260
+        ],
+        "objectFit": "fill"
+      },
+      {
+        "alt": "A smiling group photographed in front of a carved entrance with yellow ceremonial umbrellas",
+        "rendered": [
+          342,
+          262
+        ],
+        "natural": [
+          390,
+          299
+        ],
+        "objectFit": "fill"
+      },
+      {
+        "alt": "Joël and Sylvie smiling together in the garden at Surya Shanti",
+        "rendered": [
+          342,
+          342
+        ],
+        "natural": [
+          390,
+          390
+        ],
+        "objectFit": "cover"
+      },
+      {
+        "alt": "The Surya Shanti team smiling together beneath a thatched roof, with the garden behind them",
+        "rendered": [
+          342,
+          342
+        ],
+        "natural": [
+          390,
+          390
+        ],
+        "objectFit": "contain"
+      },
+      {
+        "alt": "Surya Shanti’s villas and pool surrounded by tropical greenery",
+        "rendered": [
+          233,
+          291
+        ],
+        "natural": [
+          390,
+          487
+        ],
+        "objectFit": "cover"
+      }
+    ],
+    "timeline": [
+      "2000",
+      "2010",
+      "2012",
+      "2021"
+    ],
+    "quote": "Come as a guest, leave as a family",
+    "contacts": [
+      {
+        "text": "Ask about visiting Pasraman\n↗",
+        "route": "/contact?interest=Pasraman%20Vidya%20Giri"
+      },
+      {
+        "text": "Start a conversation\n↗",
+        "route": "/contact"
+      }
+    ],
+    "errors": [],
+    "pasramanLink": {
+      "url": "http://127.0.0.1:5174/contact?interest=Pasraman%20Vidya%20Giri",
+      "interest": "Pasraman Vidya Giri"
+    },
+    "finalLink": "http://127.0.0.1:5174/contact"
+  }
+}

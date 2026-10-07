@@ -1,0 +1,178 @@
+[
+  {
+    "route": "/dining",
+    "title": "At the table,\nin Sidemen.",
+    "bodyWidth": 1440,
+    "viewport": 1440,
+    "mainHeight": 9385.21875,
+    "headFont": "\"Cormorant Garamond\", Georgia, serif",
+    "bodyFont": "\"DM Sans\", sans-serif",
+    "missing": [],
+    "images": [
+      {
+        "src": "/images/photo-030-1200.webp",
+        "alt": "Restaurant tables and a Balinese platter, open to the garden views",
+        "rect": {
+          "x": 0,
+          "width": 1440,
+          "height": 950
+        }
+      },
+      {
+        "src": "/images/photo-010-1280.webp",
+        "alt": "A Surya Shanti chef holding a colourful platter of Balinese dishes in the garden",
+        "rect": {
+          "x": 808,
+          "width": 552,
+          "height": 546.46875
+        }
+      },
+      {
+        "src": "/images/photo-034-1280.webp",
+        "alt": "Balinese dishes served in clay bowls on a banana-leaf-lined platter at Surya Shanti",
+        "rect": {
+          "x": 0,
+          "width": 802.828125,
+          "height": 700
+        }
+      },
+      {
+        "src": "/images/photo-021-1500.webp",
+        "alt": "Guests enjoying tea, juice and breakfast at a wooden table in Surya Shanti’s garden restaurant",
+        "rect": {
+          "x": 0,
+          "width": 1440,
+          "height": 734.390625
+        }
+      },
+      {
+        "src": "/images/photo-035-1280.webp",
+        "alt": "A basket of small cakes on a banana leaf, decorated with a frangipani flower at Surya Shanti",
+        "rect": {
+          "x": 754.390625,
+          "width": 605.59375,
+          "height": 605.59375
+        }
+      },
+      {
+        "src": "/images/photo-018-1200.webp",
+        "alt": "The open-sided thatched lounge at Surya Shanti, with wooden sofas, wicker chairs and a reclining Buddha",
+        "rect": {
+          "x": 0,
+          "width": 1440,
+          "height": 720
+        }
+      },
+      {
+        "src": "/images/photo-054-1280.webp",
+        "alt": "Members of Surya Shanti’s kitchen team standing in the tropical garden",
+        "rect": {
+          "x": 80,
+          "width": 533.546875,
+          "height": 528.203125
+        }
+      },
+      {
+        "src": "/images/photo-072-800.webp",
+        "alt": "Surya Shanti’s rustic Balinese cooking kitchen with clay bowls, ingredients and a wood-fired stove",
+        "rect": {
+          "x": 785.453125,
+          "width": 654.53125,
+          "height": 780
+        }
+      }
+    ],
+    "overflow": [],
+    "device": "desktop",
+    "errors": [],
+    "discoverScroll": 850
+  },
+  {
+    "route": "/dining",
+    "title": "At the table,\nin Sidemen.",
+    "bodyWidth": 390,
+    "viewport": 390,
+    "mainHeight": 9792.25,
+    "headFont": "\"Cormorant Garamond\", Georgia, serif",
+    "bodyFont": "\"DM Sans\", sans-serif",
+    "missing": [],
+    "images": [
+      {
+        "src": "/images/photo-030-1200.webp",
+        "alt": "Restaurant tables and a Balinese platter, open to the garden views",
+        "rect": {
+          "x": 0,
+          "width": 390,
+          "height": 734.265625
+        }
+      },
+      {
+        "src": "/images/photo-010-1280.webp",
+        "alt": "A Surya Shanti chef holding a colourful platter of Balinese dishes in the garden",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 363.296875
+        }
+      },
+      {
+        "src": "/images/photo-034-1280.webp",
+        "alt": "Balinese dishes served in clay bowls on a banana-leaf-lined platter at Surya Shanti",
+        "rect": {
+          "x": 0,
+          "width": 390,
+          "height": 390
+        }
+      },
+      {
+        "src": "/images/photo-021-1500.webp",
+        "alt": "Guests enjoying tea, juice and breakfast at a wooden table in Surya Shanti’s garden restaurant",
+        "rect": {
+          "x": 0,
+          "width": 390,
+          "height": 360
+        }
+      },
+      {
+        "src": "/images/photo-035-1280.webp",
+        "alt": "A basket of small cakes on a banana leaf, decorated with a frangipani flower at Surya Shanti",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 346
+        }
+      },
+      {
+        "src": "/images/photo-018-1200.webp",
+        "alt": "The open-sided thatched lounge at Surya Shanti, with wooden sofas, wicker chairs and a reclining Buddha",
+        "rect": {
+          "x": 0,
+          "width": 390,
+          "height": 460
+        }
+      },
+      {
+        "src": "/images/photo-054-1280.webp",
+        "alt": "Members of Surya Shanti’s kitchen team standing in the tropical garden",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 363.296875
+        }
+      },
+      {
+        "src": "/images/photo-072-800.webp",
+        "alt": "Surya Shanti’s rustic Balinese cooking kitchen with clay bowls, ingredients and a wood-fired stove",
+        "rect": {
+          "x": 0,
+          "width": 390,
+          "height": 560
+        }
+      }
+    ],
+    "overflow": [],
+    "device": "mobile",
+    "errors": [],
+    "discoverScroll": 634
+  }
+]

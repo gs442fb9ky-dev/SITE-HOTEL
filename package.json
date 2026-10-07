@@ -6,7 +6,10 @@
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "vite build && node scripts/build-pages.mjs",
-    "preview": "vite preview --host 0.0.0.0"
+    "preview": "vite preview --host 0.0.0.0",
+    "dev:surya": "vite surya-shanti --config surya-shanti/vite.config.js",
+    "build:surya": "vite build surya-shanti --config surya-shanti/vite.config.js && node surya-shanti/scripts/build-pages.mjs",
+    "test:surya": "playwright test --config surya-shanti/playwright.config.js"
   },
   "devDependencies": {
     "@playwright/test": "^1.55.0",

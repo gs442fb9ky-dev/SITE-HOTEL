@@ -1,0 +1,934 @@
+[
+  {
+    "route": "/dining",
+    "title": "At the table,\nin Sidemen.",
+    "bodyWidth": 1440,
+    "viewport": 1440,
+    "mainHeight": 9387.21875,
+    "headFont": "\"Cormorant Garamond\", Georgia, serif",
+    "bodyFont": "\"DM Sans\", sans-serif",
+    "missing": [],
+    "images": [
+      {
+        "src": "/images/photo-030-1200.webp",
+        "alt": "Restaurant tables and a Balinese platter, open to the garden views",
+        "rect": {
+          "x": 0,
+          "width": 1440,
+          "height": 950
+        }
+      },
+      {
+        "src": "/images/photo-010-1280.webp",
+        "alt": "A Surya Shanti chef holding a colourful platter of Balinese dishes in the garden",
+        "rect": {
+          "x": 808,
+          "width": 552,
+          "height": 546.46875
+        }
+      },
+      {
+        "src": "/images/photo-034-1280.webp",
+        "alt": "Balinese dishes served in clay bowls on a banana-leaf-lined platter at Surya Shanti",
+        "rect": {
+          "x": 0,
+          "width": 802.828125,
+          "height": 700
+        }
+      },
+      {
+        "src": "/images/photo-021-1500.webp",
+        "alt": "Guests enjoying tea, juice and breakfast at a wooden table in Surya Shanti’s garden restaurant",
+        "rect": {
+          "x": 0,
+          "width": 1440,
+          "height": 734.390625
+        }
+      },
+      {
+        "src": "/images/photo-035-1280.webp",
+        "alt": "A basket of small cakes on a banana leaf, decorated with a frangipani flower at Surya Shanti",
+        "rect": {
+          "x": 754.390625,
+          "width": 605.59375,
+          "height": 605.59375
+        }
+      },
+      {
+        "src": "/images/photo-018-1200.webp",
+        "alt": "The open-sided thatched lounge at Surya Shanti, with wooden sofas, wicker chairs and a reclining Buddha",
+        "rect": {
+          "x": 0,
+          "width": 1440,
+          "height": 720
+        }
+      },
+      {
+        "src": "/images/photo-054-1280.webp",
+        "alt": "Members of Surya Shanti’s kitchen team standing in the tropical garden",
+        "rect": {
+          "x": 80,
+          "width": 533.546875,
+          "height": 528.203125
+        }
+      },
+      {
+        "src": "/images/photo-072-800.webp",
+        "alt": "Surya Shanti’s rustic Balinese cooking kitchen with clay bowls, ingredients and a wood-fired stove",
+        "rect": {
+          "x": 785.453125,
+          "width": 654.53125,
+          "height": 780
+        }
+      }
+    ],
+    "overflow": [],
+    "device": "desktop",
+    "errors": [],
+    "discoverScroll": 850
+  },
+  {
+    "route": "/rooms",
+    "title": "A little room\nto be yourself.",
+    "bodyWidth": 1440,
+    "viewport": 1440,
+    "mainHeight": 5362.703125,
+    "headFont": "\"Cormorant Garamond\", Georgia, serif",
+    "bodyFont": "\"DM Sans\", sans-serif",
+    "missing": [],
+    "images": [
+      {
+        "src": "/images/photo-025-1280.webp",
+        "alt": "The open lounge looking towards Mount Agung",
+        "rect": {
+          "x": 0,
+          "width": 1440,
+          "height": 650
+        }
+      },
+      {
+        "src": "/images/photo-098-1280.webp",
+        "alt": "The Agung View suite’s canopy bed and seating area",
+        "rect": {
+          "x": 80,
+          "width": 679.46875,
+          "height": 490
+        }
+      },
+      {
+        "src": "/images/photo-101-1920.webp",
+        "alt": "The Agung Pool View suite’s canopy bed",
+        "rect": {
+          "x": 680.515625,
+          "width": 679.484375,
+          "height": 490
+        }
+      },
+      {
+        "src": "/images/photo-105-1280.webp",
+        "alt": "The Deluxe room’s canopy bed and bright sitting area",
+        "rect": {
+          "x": 80,
+          "width": 679.46875,
+          "height": 490
+        }
+      },
+      {
+        "src": "/images/photo-111-1280.webp",
+        "alt": "The Mezzanine Family Villa’s canopy bed beneath its thatched roof",
+        "rect": {
+          "x": 680.515625,
+          "width": 679.484375,
+          "height": 490
+        }
+      },
+      {
+        "src": "/images/photo-112-1280.webp",
+        "alt": "The wooden Joglo Saraswati villa and its covered veranda",
+        "rect": {
+          "x": 80,
+          "width": 679.46875,
+          "height": 490
+        }
+      }
+    ],
+    "overflow": [],
+    "device": "desktop",
+    "errors": []
+  },
+  {
+    "route": "/rooms/agung-view",
+    "title": "Suite Agung View",
+    "bodyWidth": 1440,
+    "viewport": 1440,
+    "mainHeight": 4271.4375,
+    "headFont": "\"Cormorant Garamond\", Georgia, serif",
+    "bodyFont": "\"DM Sans\", sans-serif",
+    "missing": [],
+    "images": [
+      {
+        "src": "/images/photo-098-1280.webp",
+        "alt": "The Agung View suite’s canopy bed and seating area",
+        "rect": {
+          "x": 0,
+          "width": 1440,
+          "height": 950
+        }
+      },
+      {
+        "src": "/images/photo-098-1280.webp",
+        "alt": "The Agung View suite’s canopy bed and seating area",
+        "rect": {
+          "x": 80,
+          "width": 1280,
+          "height": 660
+        }
+      },
+      {
+        "src": "/images/photo-097-1280.webp",
+        "alt": "The Agung View suite opening to its covered terrace",
+        "rect": {
+          "x": 80,
+          "width": 622.5,
+          "height": 490
+        }
+      },
+      {
+        "src": "/images/photo-099-1280.webp",
+        "alt": "The Agung View suite terrace framed by tropical trees",
+        "rect": {
+          "x": 737.5,
+          "width": 622.5,
+          "height": 490
+        }
+      },
+      {
+        "src": "/images/photo-096-1280.webp",
+        "alt": "The Agung View suite’s bathroom and freestanding bathtub",
+        "rect": {
+          "x": 80,
+          "width": 622.5,
+          "height": 490
+        }
+      }
+    ],
+    "overflow": [],
+    "device": "desktop",
+    "errors": []
+  },
+  {
+    "route": "/rooms/agung-pool-view",
+    "title": "Suite Agung Pool View",
+    "bodyWidth": 1440,
+    "viewport": 1440,
+    "mainHeight": 4202.078125,
+    "headFont": "\"Cormorant Garamond\", Georgia, serif",
+    "bodyFont": "\"DM Sans\", sans-serif",
+    "missing": [],
+    "images": [
+      {
+        "src": "/images/photo-101-1920.webp",
+        "alt": "The Agung Pool View suite’s canopy bed",
+        "rect": {
+          "x": 0,
+          "width": 1440,
+          "height": 950
+        }
+      },
+      {
+        "src": "/images/photo-101-1920.webp",
+        "alt": "The Agung Pool View suite’s canopy bed",
+        "rect": {
+          "x": 80,
+          "width": 1280,
+          "height": 660
+        }
+      },
+      {
+        "src": "/images/photo-100-1280.webp",
+        "alt": "The Agung Pool View suite and its shaded sitting area",
+        "rect": {
+          "x": 80,
+          "width": 622.5,
+          "height": 490
+        }
+      },
+      {
+        "src": "/images/photo-103-1920.webp",
+        "alt": "A sitting area opening onto the terrace in the Agung Pool View suite",
+        "rect": {
+          "x": 737.5,
+          "width": 622.5,
+          "height": 490
+        }
+      },
+      {
+        "src": "/images/photo-104-1920.webp",
+        "alt": "The Agung Pool View suite’s bedroom and terrace doors",
+        "rect": {
+          "x": 80,
+          "width": 622.5,
+          "height": 490
+        }
+      },
+      {
+        "src": "/images/photo-102-1920.webp",
+        "alt": "The Agung Pool View suite’s bathroom and bathtub",
+        "rect": {
+          "x": 737.5,
+          "width": 622.5,
+          "height": 490
+        }
+      }
+    ],
+    "overflow": [],
+    "device": "desktop",
+    "errors": []
+  },
+  {
+    "route": "/rooms/deluxe-valley-view",
+    "title": "Deluxe Room Valley View",
+    "bodyWidth": 1440,
+    "viewport": 1440,
+    "mainHeight": 4202.078125,
+    "headFont": "\"Cormorant Garamond\", Georgia, serif",
+    "bodyFont": "\"DM Sans\", sans-serif",
+    "missing": [],
+    "images": [
+      {
+        "src": "/images/photo-105-1280.webp",
+        "alt": "The Deluxe room’s canopy bed and bright sitting area",
+        "rect": {
+          "x": 0,
+          "width": 1440,
+          "height": 950
+        }
+      },
+      {
+        "src": "/images/photo-105-1280.webp",
+        "alt": "The Deluxe room’s canopy bed and bright sitting area",
+        "rect": {
+          "x": 80,
+          "width": 1280,
+          "height": 660
+        }
+      },
+      {
+        "src": "/images/photo-106-1280.webp",
+        "alt": "The Deluxe room’s canopy bed and woven details",
+        "rect": {
+          "x": 80,
+          "width": 622.5,
+          "height": 490
+        }
+      },
+      {
+        "src": "/images/photo-003-1280.webp",
+        "alt": "The Deluxe room terrace overlooking the Sidemen Valley",
+        "rect": {
+          "x": 737.5,
+          "width": 622.5,
+          "height": 490
+        }
+      },
+      {
+        "src": "/images/photo-107-1280.webp",
+        "alt": "The Deluxe room’s bathroom, basins and bathtub",
+        "rect": {
+          "x": 80,
+          "width": 622.5,
+          "height": 490
+        }
+      }
+    ],
+    "overflow": [],
+    "device": "desktop",
+    "errors": []
+  },
+  {
+    "route": "/rooms/mezzanine-family-villa",
+    "title": "Mezzanine Family Villa",
+    "bodyWidth": 1440,
+    "viewport": 1440,
+    "mainHeight": 4271.4375,
+    "headFont": "\"Cormorant Garamond\", Georgia, serif",
+    "bodyFont": "\"DM Sans\", sans-serif",
+    "missing": [],
+    "images": [
+      {
+        "src": "/images/photo-111-1280.webp",
+        "alt": "The Mezzanine Family Villa’s canopy bed beneath its thatched roof",
+        "rect": {
+          "x": 0,
+          "width": 1440,
+          "height": 950
+        }
+      },
+      {
+        "src": "/images/photo-111-1280.webp",
+        "alt": "The Mezzanine Family Villa’s canopy bed beneath its thatched roof",
+        "rect": {
+          "x": 80,
+          "width": 1280,
+          "height": 660
+        }
+      },
+      {
+        "src": "/images/photo-108-1280.webp",
+        "alt": "The Mezzanine Family Villa’s upper-level sitting area overlooking the valley",
+        "rect": {
+          "x": 80,
+          "width": 622.5,
+          "height": 490
+        }
+      },
+      {
+        "src": "/images/photo-109-1280.webp",
+        "alt": "The lower bedroom of the Mezzanine Family Villa",
+        "rect": {
+          "x": 737.5,
+          "width": 622.5,
+          "height": 490
+        }
+      },
+      {
+        "src": "/images/photo-110-1280.webp",
+        "alt": "The Mezzanine Family Villa’s bathroom",
+        "rect": {
+          "x": 80,
+          "width": 622.5,
+          "height": 490
+        }
+      }
+    ],
+    "overflow": [],
+    "device": "desktop",
+    "errors": []
+  },
+  {
+    "route": "/rooms/joglo-saraswati",
+    "title": "Joglo Saraswati",
+    "bodyWidth": 1440,
+    "viewport": 1440,
+    "mainHeight": 4202.078125,
+    "headFont": "\"Cormorant Garamond\", Georgia, serif",
+    "bodyFont": "\"DM Sans\", sans-serif",
+    "missing": [],
+    "images": [
+      {
+        "src": "/images/photo-112-1280.webp",
+        "alt": "The wooden Joglo Saraswati villa and its covered veranda",
+        "rect": {
+          "x": 0,
+          "width": 1440,
+          "height": 950
+        }
+      },
+      {
+        "src": "/images/photo-112-1280.webp",
+        "alt": "The wooden Joglo Saraswati villa and its covered veranda",
+        "rect": {
+          "x": 80,
+          "width": 1280,
+          "height": 660
+        }
+      },
+      {
+        "src": "/images/photo-113-1280.webp",
+        "alt": "The Joglo Saraswati villa’s canopy bed",
+        "rect": {
+          "x": 80,
+          "width": 622.5,
+          "height": 490
+        }
+      },
+      {
+        "src": "/images/photo-114-1280.webp",
+        "alt": "The Joglo Saraswati villa’s wooden veranda at dusk",
+        "rect": {
+          "x": 737.5,
+          "width": 622.5,
+          "height": 490
+        }
+      },
+      {
+        "src": "/images/photo-115-1280.webp",
+        "alt": "The Joglo Saraswati villa’s stone bathroom and freestanding tub",
+        "rect": {
+          "x": 80,
+          "width": 622.5,
+          "height": 490
+        }
+      }
+    ],
+    "overflow": [],
+    "device": "desktop",
+    "errors": []
+  },
+  {
+    "route": "/dining",
+    "title": "At the table,\nin Sidemen.",
+    "bodyWidth": 390,
+    "viewport": 390,
+    "mainHeight": 9896.25,
+    "headFont": "\"Cormorant Garamond\", Georgia, serif",
+    "bodyFont": "\"DM Sans\", sans-serif",
+    "missing": [],
+    "images": [
+      {
+        "src": "/images/photo-030-1200.webp",
+        "alt": "Restaurant tables and a Balinese platter, open to the garden views",
+        "rect": {
+          "x": 0,
+          "width": 390,
+          "height": 734.265625
+        }
+      },
+      {
+        "src": "/images/photo-010-1280.webp",
+        "alt": "A Surya Shanti chef holding a colourful platter of Balinese dishes in the garden",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 363.296875
+        }
+      },
+      {
+        "src": "/images/photo-034-1280.webp",
+        "alt": "Balinese dishes served in clay bowls on a banana-leaf-lined platter at Surya Shanti",
+        "rect": {
+          "x": 0,
+          "width": 390,
+          "height": 390
+        }
+      },
+      {
+        "src": "/images/photo-021-1500.webp",
+        "alt": "Guests enjoying tea, juice and breakfast at a wooden table in Surya Shanti’s garden restaurant",
+        "rect": {
+          "x": 0,
+          "width": 390,
+          "height": 460
+        }
+      },
+      {
+        "src": "/images/photo-035-1280.webp",
+        "alt": "A basket of small cakes on a banana leaf, decorated with a frangipani flower at Surya Shanti",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 346
+        }
+      },
+      {
+        "src": "/images/photo-018-1200.webp",
+        "alt": "The open-sided thatched lounge at Surya Shanti, with wooden sofas, wicker chairs and a reclining Buddha",
+        "rect": {
+          "x": 0,
+          "width": 390,
+          "height": 460
+        }
+      },
+      {
+        "src": "/images/photo-054-1280.webp",
+        "alt": "Members of Surya Shanti’s kitchen team standing in the tropical garden",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 363.296875
+        }
+      },
+      {
+        "src": "/images/photo-072-800.webp",
+        "alt": "Surya Shanti’s rustic Balinese cooking kitchen with clay bowls, ingredients and a wood-fired stove",
+        "rect": {
+          "x": 0,
+          "width": 390,
+          "height": 560
+        }
+      }
+    ],
+    "overflow": [],
+    "device": "mobile",
+    "errors": [],
+    "discoverScroll": 634
+  },
+  {
+    "route": "/rooms",
+    "title": "A little room\nto be yourself.",
+    "bodyWidth": 390,
+    "viewport": 390,
+    "mainHeight": 6114.125,
+    "headFont": "\"Cormorant Garamond\", Georgia, serif",
+    "bodyFont": "\"DM Sans\", sans-serif",
+    "missing": [],
+    "images": [
+      {
+        "src": "/images/photo-025-1280.webp",
+        "alt": "The open lounge looking towards Mount Agung",
+        "rect": {
+          "x": 0,
+          "width": 390,
+          "height": 420
+        }
+      },
+      {
+        "src": "/images/photo-098-1280.webp",
+        "alt": "The Agung View suite’s canopy bed and seating area",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 370
+        }
+      },
+      {
+        "src": "/images/photo-101-1920.webp",
+        "alt": "The Agung Pool View suite’s canopy bed",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 370
+        }
+      },
+      {
+        "src": "/images/photo-105-1280.webp",
+        "alt": "The Deluxe room’s canopy bed and bright sitting area",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 370
+        }
+      },
+      {
+        "src": "/images/photo-111-1280.webp",
+        "alt": "The Mezzanine Family Villa’s canopy bed beneath its thatched roof",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 370
+        }
+      },
+      {
+        "src": "/images/photo-112-1280.webp",
+        "alt": "The wooden Joglo Saraswati villa and its covered veranda",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 370
+        }
+      }
+    ],
+    "overflow": [],
+    "device": "mobile",
+    "errors": []
+  },
+  {
+    "route": "/rooms/agung-view",
+    "title": "Suite Agung View",
+    "bodyWidth": 390,
+    "viewport": 390,
+    "mainHeight": 4087.078125,
+    "headFont": "\"Cormorant Garamond\", Georgia, serif",
+    "bodyFont": "\"DM Sans\", sans-serif",
+    "missing": [],
+    "images": [
+      {
+        "src": "/images/photo-098-1280.webp",
+        "alt": "The Agung View suite’s canopy bed and seating area",
+        "rect": {
+          "x": 0,
+          "width": 390,
+          "height": 734.265625
+        }
+      },
+      {
+        "src": "/images/photo-098-1280.webp",
+        "alt": "The Agung View suite’s canopy bed and seating area",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      },
+      {
+        "src": "/images/photo-097-1280.webp",
+        "alt": "The Agung View suite opening to its covered terrace",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      },
+      {
+        "src": "/images/photo-099-1280.webp",
+        "alt": "The Agung View suite terrace framed by tropical trees",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      },
+      {
+        "src": "/images/photo-096-1280.webp",
+        "alt": "The Agung View suite’s bathroom and freestanding bathtub",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      }
+    ],
+    "overflow": [],
+    "device": "mobile",
+    "errors": []
+  },
+  {
+    "route": "/rooms/agung-pool-view",
+    "title": "Suite Agung Pool View",
+    "bodyWidth": 390,
+    "viewport": 390,
+    "mainHeight": 4390.984375,
+    "headFont": "\"Cormorant Garamond\", Georgia, serif",
+    "bodyFont": "\"DM Sans\", sans-serif",
+    "missing": [],
+    "images": [
+      {
+        "src": "/images/photo-101-1920.webp",
+        "alt": "The Agung Pool View suite’s canopy bed",
+        "rect": {
+          "x": 0,
+          "width": 390,
+          "height": 734.265625
+        }
+      },
+      {
+        "src": "/images/photo-101-1920.webp",
+        "alt": "The Agung Pool View suite’s canopy bed",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      },
+      {
+        "src": "/images/photo-100-1280.webp",
+        "alt": "The Agung Pool View suite and its shaded sitting area",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      },
+      {
+        "src": "/images/photo-103-1920.webp",
+        "alt": "A sitting area opening onto the terrace in the Agung Pool View suite",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      },
+      {
+        "src": "/images/photo-104-1920.webp",
+        "alt": "The Agung Pool View suite’s bedroom and terrace doors",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      },
+      {
+        "src": "/images/photo-102-1920.webp",
+        "alt": "The Agung Pool View suite’s bathroom and bathtub",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      }
+    ],
+    "overflow": [],
+    "device": "mobile",
+    "errors": []
+  },
+  {
+    "route": "/rooms/deluxe-valley-view",
+    "title": "Deluxe Room Valley View",
+    "bodyWidth": 390,
+    "viewport": 390,
+    "mainHeight": 4087.078125,
+    "headFont": "\"Cormorant Garamond\", Georgia, serif",
+    "bodyFont": "\"DM Sans\", sans-serif",
+    "missing": [],
+    "images": [
+      {
+        "src": "/images/photo-105-1280.webp",
+        "alt": "The Deluxe room’s canopy bed and bright sitting area",
+        "rect": {
+          "x": 0,
+          "width": 390,
+          "height": 734.265625
+        }
+      },
+      {
+        "src": "/images/photo-105-1280.webp",
+        "alt": "The Deluxe room’s canopy bed and bright sitting area",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      },
+      {
+        "src": "/images/photo-106-1280.webp",
+        "alt": "The Deluxe room’s canopy bed and woven details",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      },
+      {
+        "src": "/images/photo-003-1280.webp",
+        "alt": "The Deluxe room terrace overlooking the Sidemen Valley",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      },
+      {
+        "src": "/images/photo-107-1280.webp",
+        "alt": "The Deluxe room’s bathroom, basins and bathtub",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      }
+    ],
+    "overflow": [],
+    "device": "mobile",
+    "errors": []
+  },
+  {
+    "route": "/rooms/mezzanine-family-villa",
+    "title": "Mezzanine Family Villa",
+    "bodyWidth": 390,
+    "viewport": 390,
+    "mainHeight": 4049.125,
+    "headFont": "\"Cormorant Garamond\", Georgia, serif",
+    "bodyFont": "\"DM Sans\", sans-serif",
+    "missing": [],
+    "images": [
+      {
+        "src": "/images/photo-111-1280.webp",
+        "alt": "The Mezzanine Family Villa’s canopy bed beneath its thatched roof",
+        "rect": {
+          "x": 0,
+          "width": 390,
+          "height": 734.265625
+        }
+      },
+      {
+        "src": "/images/photo-111-1280.webp",
+        "alt": "The Mezzanine Family Villa’s canopy bed beneath its thatched roof",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      },
+      {
+        "src": "/images/photo-108-1280.webp",
+        "alt": "The Mezzanine Family Villa’s upper-level sitting area overlooking the valley",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      },
+      {
+        "src": "/images/photo-109-1280.webp",
+        "alt": "The lower bedroom of the Mezzanine Family Villa",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      },
+      {
+        "src": "/images/photo-110-1280.webp",
+        "alt": "The Mezzanine Family Villa’s bathroom",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      }
+    ],
+    "overflow": [],
+    "device": "mobile",
+    "errors": []
+  },
+  {
+    "route": "/rooms/joglo-saraswati",
+    "title": "Joglo Saraswati",
+    "bodyWidth": 390,
+    "viewport": 390,
+    "mainHeight": 4029.078125,
+    "headFont": "\"Cormorant Garamond\", Georgia, serif",
+    "bodyFont": "\"DM Sans\", sans-serif",
+    "missing": [],
+    "images": [
+      {
+        "src": "/images/photo-112-1280.webp",
+        "alt": "The wooden Joglo Saraswati villa and its covered veranda",
+        "rect": {
+          "x": 0,
+          "width": 390,
+          "height": 734.265625
+        }
+      },
+      {
+        "src": "/images/photo-112-1280.webp",
+        "alt": "The wooden Joglo Saraswati villa and its covered veranda",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      },
+      {
+        "src": "/images/photo-113-1280.webp",
+        "alt": "The Joglo Saraswati villa’s canopy bed",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      },
+      {
+        "src": "/images/photo-114-1280.webp",
+        "alt": "The Joglo Saraswati villa’s wooden veranda at dusk",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      },
+      {
+        "src": "/images/photo-115-1280.webp",
+        "alt": "The Joglo Saraswati villa’s stone bathroom and freestanding tub",
+        "rect": {
+          "x": 22,
+          "width": 346,
+          "height": 350
+        }
+      }
+    ],
+    "overflow": [],
+    "device": "mobile",
+    "errors": []
+  }
+]

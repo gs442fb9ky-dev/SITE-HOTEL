@@ -1,0 +1,88 @@
+.experiences-page figure { margin: 0; }
+.experiences-page h2 { margin: 0 0 1.25rem; font-size: clamp(2.8rem, 5.2vw, 5.7rem); line-height: 1.04; font-weight: 400; letter-spacing: -.04em; }
+.experiences-page h2 em, .experiences-page h3 em { font-weight: 400; }
+.experiences-page h3 { margin: 0 0 1.5rem; font-size: clamp(2.3rem, 3.1vw, 3.7rem); line-height: 1.08; font-weight: 400; letter-spacing: -.025em; }
+.experiences-page img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.experiences-page .caption { margin: .85rem 0 0; font-size: .73rem; line-height: 1.6; opacity: .7; }
+.exp-intro-grid { display: grid; grid-template-columns: 1.2fr 1fr; gap: clamp(2rem, 8vw, 9rem); align-items: center; }
+.exp-intro-copy { max-width: 34rem; }
+.exp-walking { padding-top: 1rem; }
+.exp-walk-grid { display: grid; grid-template-columns: 1.3fr 1fr; gap: clamp(2.5rem, 7vw, 7.5rem); align-items: center; }
+.exp-walk-media { display: grid; grid-template-columns: 1.12fr .78fr; gap: 1.2rem; align-items: start; }
+.exp-walk-main { aspect-ratio: 4 / 6.3; }
+.exp-walk-detail { aspect-ratio: 3 / 5; margin-top: 6rem !important; }
+.exp-walk-caption { grid-column: 1 / -1; }
+.exp-walk-copy { max-width: 30rem; }
+.exp-cooking-heading { max-width: 55rem; margin-bottom: 4rem; }
+.exp-section-intro { max-width: 33rem; font-size: 1.04rem; line-height: 1.85; }
+.exp-cook-grid { display: grid; grid-template-columns: 1.1fr 1fr; gap: clamp(2.5rem, 6vw, 6rem); }
+.exp-cook-kitchen { align-self: start; }
+.exp-cook-kitchen img { aspect-ratio: 5 / 7; }
+.exp-cook-story { padding-top: 1rem; }
+.exp-cook-story > .prose { max-width: 33rem; }
+.exp-cook-chef { width: 70%; margin: 3rem 0 0 auto !important; }
+.exp-cook-chef img { aspect-ratio: 1; }
+.exp-cook-moments { display: grid; grid-template-columns: .68fr 1.25fr; gap: clamp(1rem, 3vw, 3rem); margin-top: 5rem; align-items: center; }
+.exp-cook-guests { width: 78%; margin: 0 auto !important; }
+.exp-cook-guests img { aspect-ratio: 4 / 6; }
+.exp-cook-food img { aspect-ratio: 3 / 2; }
+.exp-cook-note { grid-column: 2; margin: .1rem 0 0; font-family: 'Cormorant Garamond', Georgia, serif; font-size: clamp(1.8rem, 3vw, 3.2rem); line-height: 1.2; }
+.exp-prayer-grid { display: grid; grid-template-columns: .9fr 1.2fr; gap: clamp(3rem, 7vw, 8rem); align-items: center; }
+.exp-prayer-copy { max-width: 30rem; }
+.exp-prayer-media { display: grid; grid-template-columns: 1fr .8fr; gap: 1.2rem; align-items: start; }
+.exp-prayer-temple { margin-top: 4rem !important; }
+.exp-prayer-temple img { aspect-ratio: 1; }
+.exp-prayer-offering img { aspect-ratio: 5 / 7; }
+.exp-prayer-media .caption { grid-column: 1 / -1; }
+.exp-community-heading { display: grid; grid-template-columns: 1.1fr .9fr; gap: clamp(3rem, 7vw, 8rem); align-items: end; margin-bottom: 4rem; }
+.exp-community-heading > .prose { max-width: 32rem; }
+.exp-community-wide img { aspect-ratio: 2.05; }
+.exp-community-grid { display: grid; grid-template-columns: 1.05fr .95fr; gap: clamp(3rem, 8vw, 8rem); align-items: center; margin-top: 5rem; }
+.exp-community-learning img { aspect-ratio: 3 / 2; }
+.exp-community-copy { max-width: 31rem; }
+.exp-community-copy .text-link { display: table; margin-top: 1.5rem; }
+.exp-more-grid { display: grid; grid-template-columns: 1.1fr .9fr; gap: clamp(3rem, 7vw, 8rem); align-items: center; }
+.exp-more-grid > .prose { max-width: 32rem; }
+.exp-slow-heading { margin-bottom: 3.5rem; }
+.exp-slow-links { border-top: 1px solid currentColor; }
+.exp-slow-links > div { display: grid; grid-template-columns: 3rem 1fr 1fr; align-items: center; gap: 2rem; padding: 1.8rem 0; border-bottom: 1px solid rgb(243 240 231 / .22); }
+.exp-slow-links span { font-size: .75rem; opacity: .6; }
+.exp-slow-links .exp-next-link { text-decoration: none; font-family: 'Cormorant Garamond', Georgia, serif; font-size: clamp(2.2rem, 4vw, 4rem); line-height: 1.15; color: inherit; }
+.exp-next-link::after { content: ''; display: inline-block; width: .55em; height: .55em; margin-left: 1rem; background: currentColor; mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M5 19 19 5M5 5h14v14' fill='none' stroke='black' stroke-width='1.5'/%3E%3C/svg%3E") center / contain no-repeat; transition: transform .2s ease; }
+.exp-next-link:hover::after { transform: translate(3px, -3px); }
+.exp-slow-links p { margin: 0; font-size: .88rem; line-height: 1.7; opacity: .75; max-width: 25rem; }
+@media (max-width: 950px) {
+  .exp-walk-grid { grid-template-columns: 1.15fr 1fr; gap: 2.4rem; }
+  .exp-walk-detail { margin-top: 3rem !important; }
+  .exp-community-heading, .exp-prayer-grid { gap: 2.5rem; }
+}
+@media (max-width: 760px) {
+  .experiences-page h2 { font-size: clamp(2.7rem, 10vw, 4.6rem); }
+  .exp-intro-grid, .exp-walk-grid, .exp-cook-grid, .exp-prayer-grid, .exp-community-heading, .exp-community-grid, .exp-more-grid { grid-template-columns: 1fr; gap: 2.3rem; }
+  .exp-intro-copy, .exp-walk-copy, .exp-cook-story > .prose, .exp-prayer-copy, .exp-community-heading > .prose, .exp-community-copy, .exp-more-grid > .prose { max-width: none; }
+  .exp-walk-copy { grid-row: 1; }
+  .exp-walking { padding-top: 0; }
+  .exp-walk-media { gap: .75rem; }
+  .exp-walk-main { aspect-ratio: 4 / 6; }
+  .exp-walk-detail { margin-top: 3.5rem !important; }
+  .exp-cooking-heading { margin-bottom: 2.5rem; }
+  .exp-cook-kitchen img { aspect-ratio: 4 / 5; }
+  .exp-cook-story { padding-top: 0; }
+  .exp-cook-chef { width: 65%; margin-top: 2.5rem !important; }
+  .exp-cook-moments { gap: .8rem; margin-top: 3rem; }
+  .exp-cook-guests { width: 100%; }
+  .exp-cook-food img { aspect-ratio: 1; }
+  .exp-cook-note { font-size: 1.55rem; margin-top: .5rem; }
+  .exp-prayer-media { gap: .75rem; }
+  .exp-prayer-temple { margin-top: 2.5rem !important; }
+  .exp-community-heading { margin-bottom: 2.5rem; }
+  .exp-community-wide img { aspect-ratio: 4 / 3; object-position: 62% 43% !important; }
+  .exp-community-grid { margin-top: 3rem; }
+  .exp-slow-heading { margin-bottom: 2rem; }
+  .exp-slow-links > div { grid-template-columns: 1.7rem 1fr; gap: 1rem; padding: 1.5rem 0; }
+  .exp-slow-links p { grid-column: 2; margin-top: -.3rem; }
+  .exp-slow-links .exp-next-link { font-size: 2.8rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .exp-next-link::after { transition: none; }
+}

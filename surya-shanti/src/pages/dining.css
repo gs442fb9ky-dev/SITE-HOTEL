@@ -1,0 +1,111 @@
+.dining-page{--dining-line:#d3cbbd;--dining-copper:#987652}
+.dining-page .page-hero:not(.hero-split):after{background:linear-gradient(180deg,#11221978 0%,#11221910 28%,#101e1640 60%,#101e1690 100%)}
+.dining-page h2{font-size:clamp(3.15rem,5.65vw,6.1rem);line-height:1.02;font-weight:400;letter-spacing:-.04em;margin:25px 0 34px}
+.dining-page h3{font-weight:400}
+.dining-page .prose{max-width:43ch}
+.dining-page .prose p+p{margin-top:24px}
+.dining-page figure{margin:0}
+.dining-page figure img{display:block;width:100%;height:100%;object-fit:cover}
+.dining-page .caption{margin-top:16px;font-size:11px;line-height:1.6}
+.dining-page .eyebrow{letter-spacing:.15em;text-transform:uppercase}
+.dining-page .text-link{margin-top:32px}
+.dining-page .prose+.button,.dining-menu-intro>.button{margin-top:30px}
+.dining-kitchen-grid{display:grid;grid-template-columns:1fr .92fr;gap:10%;align-items:center}
+.dining-kitchen-copy{padding:30px 0}
+.dining-chef-photo{aspect-ratio:1/.99;position:relative}
+.dining-chef-photo img{aspect-ratio:1/.99}
+.dining-chef-photo .caption{position:absolute;bottom:-38px;left:0}
+.dining-table-story{display:grid;grid-template-columns:1.26fr 1fr;align-items:center}
+.dining-platter-photo{height:700px;position:relative}
+.dining-platter-photo .caption{position:absolute;bottom:22px;left:32px;right:32px;color:#fff;text-shadow:0 1px 4px #000;background:#233e35bb;width:max-content;max-width:calc(100% - 64px);padding:8px 13px}
+.dining-table-copy{padding:85px 12%}
+.dining-table-note{font-family:'Cormorant Garamond',Georgia,serif;font-size:29px;font-style:italic;line-height:1.3;margin-top:32px;color:#987652;max-width:24ch}
+.dining-menu-layout{display:grid;grid-template-columns:.85fr 1.4fr;gap:11%;align-items:start}
+.dining-menu-intro{position:sticky;top:110px}
+.dining-menu-intro h2{margin-bottom:30px}
+.dining-menu-ledger{border-top:1px solid var(--dining-line)}
+.dining-menu-row{display:grid;grid-template-columns:32px 1fr;gap:20px;padding:28px 0 35px;border-bottom:1px solid var(--dining-line)}
+.dining-menu-number{font-size:10px;letter-spacing:.12em;color:#987652;padding-top:13px}
+.dining-menu-row h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,2.7vw,42px);line-height:1.12;margin:0 0 15px;letter-spacing:-.025em}
+.dining-menu-row p{font-size:13px;line-height:1.9;margin:0;max-width:49ch}
+.dining-breakfast{padding-top:100px}
+.dining-breakfast-head{display:flex;justify-content:space-between;gap:80px;align-items:center;padding-bottom:48px}
+.dining-breakfast-head .prose{max-width:32ch}
+.dining-breakfast-head h2{margin-bottom:10px}
+.dining-breakfast-photo{height:clamp(500px,51vw,760px)}
+.dining-breakfast-choices{display:grid;grid-template-columns:1fr 1fr;gap:9%;padding-top:55px;padding-bottom:68px}
+.dining-breakfast-choices article+article{border-left:1px solid var(--dining-line);padding-left:11%}
+.dining-breakfast-choices h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(39px,4.2vw,62px);line-height:1;margin:18px 0 22px;letter-spacing:-.03em}
+.dining-breakfast-choices p{font-size:14px;line-height:1.85;max-width:43ch;margin:0}
+.dining-made-grid{display:grid;grid-template-columns:.86fr 1fr;gap:12%;align-items:center}
+.dining-cakes-photo img{aspect-ratio:1/1;object-position:53% 50%}
+.dining-bar{padding-top:100px;padding-bottom:65px}
+.dining-bar-head{display:grid;grid-template-columns:1fr 1fr;gap:12%;align-items:center;margin-bottom:45px}
+.dining-bar-head .prose{max-width:36ch}
+.dining-bar-head h2{margin-bottom:0}
+.dining-bar-photo{height:clamp(480px,50vw,740px)}
+.dining-cocktail-layout{display:grid;grid-template-columns:.8fr 1.5fr;gap:10%;margin-top:60px;align-items:start}
+.dining-cocktail-layout>.eyebrow{margin-top:15px}
+.dining-cocktails{display:grid;grid-template-columns:1fr 1fr;gap:0 46px;margin:0}
+.dining-cocktails>div{border-top:1px solid #ffffff30;padding:19px 0 25px}
+.dining-cocktails dt{font-family:'Cormorant Garamond',Georgia,serif;font-size:29px;line-height:1.2;margin:0 0 9px}
+.dining-cocktails dd{font-size:10px;letter-spacing:.015em;line-height:1.9;margin:0;color:#e2e4d8}
+.dining-people-grid{display:grid;grid-template-columns:.9fr 1fr;gap:12%;align-items:center}
+.dining-team-photo img{aspect-ratio:1/.99}
+.dining-people .prose{max-width:37ch}
+.dining-cooking{display:grid;grid-template-columns:1.2fr 1fr;align-items:center;overflow:hidden}
+.dining-cooking-copy{padding:90px max(30px,10.5%)}
+.dining-cooking-copy h2{font-size:clamp(52px,5.4vw,82px)}
+.dining-cooking-photo{height:780px;position:relative}
+.dining-cooking-photo .caption{position:absolute;bottom:24px;left:28px;right:25px;color:#fff;text-shadow:0 1px 5px #000}
+.dining-invitation{text-align:center}
+.dining-invitation .section-head{margin:auto}
+.dining-invitation .section-head h2{margin:25px 0}
+.dining-invitation .section-head p:not(.eyebrow){max-width:42ch;margin-left:auto;margin-right:auto}
+.dining-invitation-action{margin-top:35px}
+@media(min-width:1700px){.dining-platter-photo{height:820px}.dining-cooking-photo{height:850px}}
+@media(max-width:1050px){.dining-kitchen-grid,.dining-made-grid,.dining-people-grid{gap:6%}.dining-table-copy{padding:65px 10%}.dining-platter-photo{height:630px}.dining-menu-layout{gap:7%}.dining-menu-intro{position:static}.dining-bar-head{gap:8%}.dining-cocktail-layout{grid-template-columns:1fr;gap:25px}.dining-cooking-copy{padding:70px 8%}.dining-cooking-photo{height:720px}.dining-cooking-copy h2{font-size:56px}}
+@media(max-width:760px){
+ .dining-page h2{font-size:clamp(49px,11.7vw,80px);margin:20px 0 25px}
+ .dining-kitchen-grid,.dining-made-grid,.dining-people-grid{grid-template-columns:1fr;gap:36px}
+ .dining-kitchen-copy{padding:0}
+ .dining-chef-photo{aspect-ratio:1/1.05;margin-bottom:30px!important}
+ .dining-chef-photo img{aspect-ratio:1/1.05}
+ .dining-page .prose{max-width:47ch}
+ .dining-table-story{display:flex;flex-direction:column}
+ .dining-platter-photo{height:390px;width:100%}
+ .dining-platter-photo .caption{left:18px;bottom:18px;max-width:calc(100% - 36px);font-size:9px}
+ .dining-table-copy{padding:55px 7% 65px}
+ .dining-table-note{font-size:26px;margin-top:25px}
+ .dining-menu-layout{grid-template-columns:1fr;gap:38px}
+ .dining-menu-row{gap:13px;grid-template-columns:23px 1fr;padding:25px 0}
+ .dining-menu-row h3{font-size:31px}
+ .dining-menu-row p{font-size:12px;line-height:1.9}
+ .dining-breakfast{padding-top:60px}
+ .dining-breakfast-head{display:block;padding-bottom:35px}
+ .dining-breakfast-head .prose{max-width:40ch;margin-top:28px}
+ .dining-breakfast-photo{height:360px}
+ .dining-breakfast-photo img{object-position:60% 50%!important}
+ .dining-breakfast-choices{grid-template-columns:1fr;gap:32px;padding-top:35px;padding-bottom:55px}
+ .dining-breakfast-choices article+article{border-left:0;border-top:1px solid var(--dining-line);padding:30px 0 0}
+ .dining-breakfast-choices h3{font-size:43px;margin:16px 0 18px}
+ .dining-breakfast-choices p{font-size:13px}
+ .dining-cakes-photo img{aspect-ratio:1/1}
+ .dining-bar{padding-top:60px;padding-bottom:45px}
+ .dining-bar-head{grid-template-columns:1fr;gap:25px;margin-bottom:35px}
+ .dining-bar-head .prose{max-width:42ch}
+ .dining-bar-photo{height:460px}
+ .dining-cocktail-layout{margin-top:38px}
+ .dining-cocktails{gap:0 20px}
+ .dining-cocktails dt{font-size:25px}
+ .dining-cocktails dd{font-size:9px;line-height:1.8}
+ .dining-team-photo{max-width:100%}
+ .dining-team-photo img{aspect-ratio:1/1.05}
+ .dining-cooking{display:flex;flex-direction:column}
+ .dining-cooking-copy{padding:55px 7% 60px;width:100%}
+ .dining-cooking-copy h2{font-size:clamp(48px,11.5vw,72px)}
+ .dining-cooking-photo{height:560px;width:100%}
+ .dining-cooking-photo .caption{font-size:10px;bottom:18px;left:21px}
+ .dining-invitation .section-head h2{font-size:57px}
+}
+@media(prefers-reduced-motion:reduce){.dining-page .dining-anchor{scroll-behavior:auto}}

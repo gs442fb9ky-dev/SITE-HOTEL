@@ -1,0 +1,52 @@
+[
+  {
+    "route": "home",
+    "width": 1440,
+    "h1": "Surya\nShanti.",
+    "overflow": false,
+    "brokenImages": [],
+    "heroSource": "http://127.0.0.1:5174/images/photo-022-1920.webp",
+    "errors": []
+  },
+  {
+    "route": "gallery",
+    "width": 1440,
+    "h1": "Surya Shanti,\nin photographs.",
+    "overflow": false,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "route": "contact",
+    "width": 1440,
+    "h1": "Let’s make\nroom for you.",
+    "overflow": false,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "route": "home",
+    "width": 390,
+    "h1": "Surya\nShanti.",
+    "overflow": false,
+    "brokenImages": [],
+    "heroSource": "http://127.0.0.1:5174/images/photo-022-1280.webp",
+    "errors": []
+  },
+  {
+    "route": "gallery",
+    "width": 390,
+    "h1": "Surya Shanti,\nin photographs.",
+    "overflow": false,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "route": "contact",
+    "width": 390,
+    "h1": "Let’s make\nroom for you.",
+    "overflow": false,
+    "brokenImages": [],
+    "errors": []
+  }
+]

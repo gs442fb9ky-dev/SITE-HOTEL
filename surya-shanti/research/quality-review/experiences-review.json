@@ -1,0 +1,312 @@
+[
+  {
+    "label": "desktop",
+    "errors": [],
+    "title": "Days shapedby Sidemen.",
+    "scrollWidth": 1440,
+    "viewport": 1440,
+    "height": 8588,
+    "images": [
+      {
+        "alt": "A farmer and cattle working in Sidemen’s rice fields",
+        "complete": true,
+        "natural": 1440,
+        "shown": [
+          1440,
+          950
+        ]
+      },
+      {
+        "alt": "Guests walking through a flooded rice field with a member of the Balinese team",
+        "complete": true,
+        "natural": 489,
+        "shown": [
+          382,
+          601
+        ]
+      },
+      {
+        "alt": "A walker among the green rice fields and wooded hills of Sidemen",
+        "complete": true,
+        "natural": 288,
+        "shown": [
+          266,
+          443
+        ]
+      },
+      {
+        "alt": "Ingredients, utensils and Balinese dishes laid out in the open-air cooking space",
+        "complete": true,
+        "natural": 662,
+        "shown": [
+          625,
+          875
+        ]
+      },
+      {
+        "alt": "Surya Shanti’s chef presenting a platter of Balinese food in the garden",
+        "complete": true,
+        "natural": 360,
+        "shown": [
+          398,
+          398
+        ]
+      },
+      {
+        "alt": "The chef and guests smiling around a table of Balinese dishes after cooking",
+        "complete": true,
+        "natural": 403,
+        "shown": [
+          340,
+          510
+        ]
+      },
+      {
+        "alt": "A platter of colourful Balinese dishes served in small bowls on a banana leaf",
+        "complete": true,
+        "natural": 734,
+        "shown": [
+          801,
+          534
+        ]
+      },
+      {
+        "alt": "A participant at the temple beside flowers and offerings for prayer",
+        "complete": true,
+        "natural": 432,
+        "shown": [
+          364,
+          364
+        ]
+      },
+      {
+        "alt": "Participants praying with palms together at the temple",
+        "complete": true,
+        "natural": 316,
+        "shown": [
+          291,
+          407
+        ]
+      },
+      {
+        "alt": "Young Balinese dancers in traditional dress holding offerings outdoors",
+        "complete": true,
+        "natural": 1324,
+        "shown": [
+          1280,
+          624
+        ]
+      },
+      {
+        "alt": "Children and adults gathered together at Pasraman Vidya Giri",
+        "complete": true,
+        "natural": 604,
+        "shown": [
+          612,
+          408
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "DISCOVER ↓",
+        "href": "#page-content"
+      },
+      {
+        "text": "Plan your time in Sidemen↗",
+        "href": "/contact?interest=Experiences%20in%20Sidemen"
+      },
+      {
+        "text": "Ask about a guided walk↗",
+        "href": "/contact?interest=Walking%20and%20trekking"
+      },
+      {
+        "text": "Ask about a cooking class↗",
+        "href": "/contact?interest=Balinese%20cooking%20class"
+      },
+      {
+        "text": "Ask the team about joining↗",
+        "href": "/contact?interest=Morning%20prayer"
+      },
+      {
+        "text": "Ask about visiting Pasraman↗",
+        "href": "/contact?interest=Pasraman%20Vidya%20Giri"
+      },
+      {
+        "text": "Discover the people behind Surya Shanti↗",
+        "href": "/our-story"
+      },
+      {
+        "text": "Discuss the possibilities↗",
+        "href": "/contact?interest=Other%20activities%20around%20Sidemen"
+      },
+      {
+        "text": "Yoga",
+        "href": "/yoga"
+      },
+      {
+        "text": "Spa",
+        "href": "/spa"
+      },
+      {
+        "text": "Our story",
+        "href": "/our-story"
+      }
+    ]
+  },
+  {
+    "label": "mobile",
+    "errors": [],
+    "title": "Days shapedby Sidemen.",
+    "scrollWidth": 390,
+    "viewport": 390,
+    "height": 8524,
+    "images": [
+      {
+        "alt": "A farmer and cattle working in Sidemen’s rice fields",
+        "complete": true,
+        "natural": 390,
+        "shown": [
+          390,
+          734
+        ]
+      },
+      {
+        "alt": "Guests walking through a flooded rice field with a member of the Balinese team",
+        "complete": true,
+        "natural": 249,
+        "shown": [
+          197,
+          295
+        ]
+      },
+      {
+        "alt": "A walker among the green rice fields and wooded hills of Sidemen",
+        "complete": true,
+        "natural": 140,
+        "shown": [
+          137,
+          229
+        ]
+      },
+      {
+        "alt": "Ingredients, utensils and Balinese dishes laid out in the open-air cooking space",
+        "complete": true,
+        "natural": 358,
+        "shown": [
+          346,
+          433
+        ]
+      },
+      {
+        "alt": "Surya Shanti’s chef presenting a platter of Balinese food in the garden",
+        "complete": true,
+        "natural": 214,
+        "shown": [
+          225,
+          225
+        ]
+      },
+      {
+        "alt": "The chef and guests smiling around a table of Balinese dishes after cooking",
+        "complete": true,
+        "natural": 144,
+        "shown": [
+          117,
+          176
+        ]
+      },
+      {
+        "alt": "A platter of colourful Balinese dishes served in small bowls on a banana leaf",
+        "complete": true,
+        "natural": 214,
+        "shown": [
+          216,
+          216
+        ]
+      },
+      {
+        "alt": "A participant at the temple beside flowers and offerings for prayer",
+        "complete": true,
+        "natural": 210,
+        "shown": [
+          186,
+          186
+        ]
+      },
+      {
+        "alt": "Participants praying with palms together at the temple",
+        "complete": true,
+        "natural": 156,
+        "shown": [
+          148,
+          208
+        ]
+      },
+      {
+        "alt": "Young Balinese dancers in traditional dress holding offerings outdoors",
+        "complete": true,
+        "natural": 358,
+        "shown": [
+          346,
+          260
+        ]
+      },
+      {
+        "alt": "Children and adults gathered together at Pasraman Vidya Giri",
+        "complete": true,
+        "natural": 358,
+        "shown": [
+          346,
+          231
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "DISCOVER ↓",
+        "href": "#page-content"
+      },
+      {
+        "text": "Plan your time in Sidemen↗",
+        "href": "/contact?interest=Experiences%20in%20Sidemen"
+      },
+      {
+        "text": "Ask about a guided walk↗",
+        "href": "/contact?interest=Walking%20and%20trekking"
+      },
+      {
+        "text": "Ask about a cooking class↗",
+        "href": "/contact?interest=Balinese%20cooking%20class"
+      },
+      {
+        "text": "Ask the team about joining↗",
+        "href": "/contact?interest=Morning%20prayer"
+      },
+      {
+        "text": "Ask about visiting Pasraman↗",
+        "href": "/contact?interest=Pasraman%20Vidya%20Giri"
+      },
+      {
+        "text": "Discover the people behind Surya Shanti↗",
+        "href": "/our-story"
+      },
+      {
+        "text": "Discuss the possibilities↗",
+        "href": "/contact?interest=Other%20activities%20around%20Sidemen"
+      },
+      {
+        "text": "Yoga",
+        "href": "/yoga"
+      },
+      {
+        "text": "Spa",
+        "href": "/spa"
+      },
+      {
+        "text": "Our story",
+        "href": "/our-story"
+      }
+    ]
+  }
+]

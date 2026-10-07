@@ -1,0 +1,120 @@
+[
+  {
+    "route": "spa",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "hero": {
+      "src": "http://127.0.0.1:5174/images/photo-058-1920.webp",
+      "sizes": "(max-width:760px) max(100vw, 131svh), 100vw",
+      "fit": "cover",
+      "displayWidth": 1440,
+      "displayHeight": 950,
+      "naturalWidth": 1440,
+      "naturalHeight": 959,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 950,
+        "top": 0,
+        "right": 1440,
+        "bottom": 950,
+        "left": 0
+      }
+    },
+    "logoFilter": "brightness(0) invert(1)",
+    "svgArrows": 8,
+    "accordions": 7,
+    "contactURL": "http://127.0.0.1:5174/contact?interest=Spa%20treatment",
+    "interest": "Spa treatment"
+  },
+  {
+    "route": "yoga",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "hero": {
+      "src": "http://127.0.0.1:5174/images/photo-007-1200.webp",
+      "sizes": "(max-width:760px) 100vw, 50vw",
+      "fit": "contain",
+      "displayWidth": 720,
+      "displayHeight": 860,
+      "naturalWidth": 720,
+      "naturalHeight": 960,
+      "rect": {
+        "x": 720,
+        "y": 90,
+        "width": 720,
+        "height": 860,
+        "top": 90,
+        "right": 1440,
+        "bottom": 950,
+        "left": 720
+      }
+    },
+    "logoFilter": "brightness(0) saturate(1) invert(0.2) sepia(0.17) saturate(9.29) hue-rotate(103deg) brightness(0.91) contrast(0.85)",
+    "svgArrows": 8,
+    "contactURL": "http://127.0.0.1:5174/contact?interest=Yoga%20class",
+    "interest": "Yoga class"
+  },
+  {
+    "route": "spa",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "hero": {
+      "src": "http://127.0.0.1:5174/images/photo-058-1280.webp",
+      "sizes": "(max-width:760px) max(100vw, 131svh), 100vw",
+      "fit": "cover",
+      "displayWidth": 390,
+      "displayHeight": 734,
+      "naturalWidth": 1105,
+      "naturalHeight": 736,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 734.265625,
+        "top": 0,
+        "right": 390,
+        "bottom": 734.265625,
+        "left": 0
+      }
+    },
+    "logoFilter": "brightness(0) invert(1)",
+    "svgArrows": 8,
+    "accordions": 7,
+    "contactURL": "http://127.0.0.1:5174/contact?interest=Spa%20treatment",
+    "interest": "Spa treatment"
+  },
+  {
+    "route": "yoga",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "hero": {
+      "src": "http://127.0.0.1:5174/images/photo-007-640.webp",
+      "sizes": "(max-width:760px) 100vw, 50vw",
+      "fit": "contain",
+      "displayWidth": 390,
+      "displayHeight": 520,
+      "naturalWidth": 390,
+      "naturalHeight": 519,
+      "rect": {
+        "x": 0,
+        "y": 78,
+        "width": 390,
+        "height": 519.796875,
+        "top": 78,
+        "right": 390,
+        "bottom": 597.796875,
+        "left": 0
+      }
+    },
+    "logoFilter": "brightness(0) saturate(1) invert(0.2) sepia(0.17) saturate(9.29) hue-rotate(103deg) brightness(0.91) contrast(0.85)",
+    "svgArrows": 8,
+    "contactURL": "http://127.0.0.1:5174/contact?interest=Yoga%20class",
+    "interest": "Yoga class"
+  }
+]

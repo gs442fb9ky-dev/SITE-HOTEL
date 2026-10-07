@@ -1,0 +1,572 @@
+.wellness-page {
+  --wellness-green: #233e35;
+  --wellness-ivory: #f3f0e7;
+  --wellness-copper: #987652;
+  --wellness-border: rgb(35 62 53 / 20%);
+}
+
+.wellness-page h2,
+.wellness-display-copy {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 400;
+  font-size: clamp(3rem, 5.6vw, 5.7rem);
+  line-height: .98;
+  letter-spacing: -.035em;
+  margin: 0 0 1.5rem;
+}
+
+.wellness-page h2 em,
+.wellness-display-copy em {
+  font-weight: 400;
+}
+
+.wellness-editorial > p:not(.eyebrow),
+.spa-signature-note p,
+.spa-menu-intro > p:not(.eyebrow),
+.yoga-practice-heading > p:not(.eyebrow),
+.yoga-final-inner > p:not(.eyebrow) {
+  max-width: 29rem;
+  line-height: 1.85;
+  font-size: .96rem;
+  margin: 0 0 1.7rem;
+}
+
+.wellness-figure {
+  margin: 0;
+  min-width: 0;
+}
+
+.wellness-photo {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.wellness-figure > .caption {
+  margin: .8rem 0 0;
+  font-size: .7rem;
+  line-height: 1.55;
+  color: rgb(35 62 53 / 74%);
+}
+
+.wellness-editorial .eyebrow,
+.spa-signature-heading .eyebrow,
+.spa-menu-intro .eyebrow,
+.yoga-practice-heading .eyebrow,
+.yoga-final-inner .eyebrow {
+  margin-bottom: 1.55rem;
+}
+
+.spa-pause-grid,
+.spa-final-grid,
+.yoga-valley-grid {
+  display: grid;
+  grid-template-columns: .85fr 1.15fr;
+  gap: clamp(2.5rem, 7vw, 7rem);
+  align-items: center;
+}
+
+.spa-pause-photo .wellness-photo {
+  aspect-ratio: 4 / 3;
+}
+
+.spa-signature-section {
+  padding-top: clamp(1rem, 3vw, 3rem);
+}
+
+.spa-signature-heading {
+  display: grid;
+  grid-template-columns: 1.2fr .8fr;
+  gap: 3rem;
+  align-items: end;
+  padding-bottom: clamp(2rem, 4vw, 4rem);
+}
+
+.spa-signature-heading h2 {
+  margin-bottom: 0;
+}
+
+.spa-time-label {
+  display: block;
+  font-size: .68rem;
+  text-transform: uppercase;
+  letter-spacing: .16em;
+  color: var(--wellness-copper);
+  margin-bottom: 1.2rem;
+}
+
+.spa-signature-note p {
+  max-width: 22rem;
+  margin-bottom: .15rem;
+}
+
+.spa-signature-photo > .wellness-photo {
+  width: 100%;
+  height: clamp(25rem, 56vw, 52rem);
+  object-position: 50% 60%;
+}
+
+.spa-signature-photo > .caption,
+.yoga-agung-photo > .caption {
+  padding-inline: max(1.5rem, 5vw);
+}
+
+.spa-care-details {
+  display: grid;
+  grid-template-columns: .95fr .8fr 1.15fr;
+  gap: clamp(1.5rem, 3vw, 3rem);
+  align-items: center;
+  padding-block: clamp(3.8rem, 7vw, 7rem);
+}
+
+.spa-care-closeup .wellness-photo {
+  aspect-ratio: 1;
+}
+
+.spa-care-head .wellness-photo {
+  aspect-ratio: 4 / 5;
+}
+
+.spa-care-thought {
+  padding-inline: .5rem;
+}
+
+.spa-care-thought .eyebrow {
+  margin-bottom: 1.5rem;
+}
+
+.wellness-display-copy {
+  font-size: clamp(2.3rem, 3.8vw, 4rem);
+  margin-bottom: 0;
+  line-height: 1.1;
+}
+
+.spa-menu-grid {
+  display: grid;
+  grid-template-columns: .8fr 1.2fr;
+  gap: clamp(3rem, 7vw, 7rem);
+  align-items: start;
+}
+
+.spa-menu-section {
+  color: var(--wellness-ivory);
+  background: var(--wellness-green);
+}
+
+.spa-menu-intro h2 {
+  font-size: clamp(3.2rem, 5vw, 5.3rem);
+}
+
+.spa-menu-intro .spa-menu-practical {
+  font-size: .81rem;
+  opacity: .74;
+}
+
+.spa-treatment-list {
+  border-top: 1px solid rgb(243 240 231 / 30%);
+}
+
+.spa-treatment {
+  border-bottom: 1px solid rgb(243 240 231 / 30%);
+}
+
+.spa-treatment > summary {
+  display: grid;
+  grid-template-columns: 1.8rem 1fr 1.8rem;
+  gap: 1rem;
+  align-items: center;
+  padding-block: 1.6rem;
+  cursor: pointer;
+  list-style: none;
+}
+
+.spa-treatment > summary::-webkit-details-marker {
+  display: none;
+}
+
+.spa-treatment > summary:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 5px;
+}
+
+.spa-treatment-number {
+  font-size: .63rem;
+  letter-spacing: .08em;
+  opacity: .5;
+  align-self: start;
+  padding-top: .5rem;
+}
+
+.spa-treatment-label {
+  display: grid;
+  gap: .6rem;
+}
+
+.spa-treatment-name {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: clamp(1.9rem, 2.7vw, 2.55rem);
+  line-height: 1;
+}
+
+.spa-treatment-meta {
+  font-size: .58rem;
+  line-height: 1.7;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  opacity: .7;
+}
+
+.spa-treatment-toggle {
+  position: relative;
+  width: 1.65rem;
+  height: 1.65rem;
+  border: 1px solid rgb(243 240 231 / 35%);
+  border-radius: 50%;
+}
+
+.spa-treatment-toggle::before,
+.spa-treatment-toggle::after {
+  content: '';
+  position: absolute;
+  width: .55rem;
+  height: 1px;
+  background: currentColor;
+  top: calc(50% - .5px);
+  left: calc(50% - .275rem);
+}
+
+.spa-treatment-toggle::after {
+  transform: rotate(90deg);
+  transition: transform .2s ease;
+}
+
+.spa-treatment[open] .spa-treatment-toggle::after {
+  transform: rotate(0);
+}
+
+.spa-treatment-description {
+  padding: 0 2.8rem 1.7rem;
+  max-width: 33rem;
+}
+
+.spa-treatment-description p {
+  font-size: .86rem;
+  line-height: 1.85;
+  margin: 0;
+  opacity: .84;
+}
+
+.spa-welcome-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: clamp(2.5rem, 7vw, 7rem);
+  align-items: start;
+}
+
+.spa-welcome-photo .wellness-photo {
+  aspect-ratio: 4 / 5;
+}
+
+.spa-welcome-copy {
+  padding-top: clamp(1rem, 3vw, 3rem);
+}
+
+.spa-welcome-copy h2 {
+  font-size: clamp(3rem, 4.9vw, 5rem);
+}
+
+.spa-team-photo {
+  margin-top: 2.5rem;
+}
+
+.spa-team-photo .wellness-photo {
+  aspect-ratio: 3 / 2;
+}
+
+.spa-final-grid {
+  grid-template-columns: 1.05fr .95fr;
+}
+
+.spa-stone-photo .wellness-photo {
+  aspect-ratio: 4 / 3;
+}
+
+.wellness-link-pair {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1.3rem 1.8rem;
+  margin-top: 2rem;
+}
+
+.yoga-practice-heading {
+  max-width: 48rem;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.yoga-practice-heading > p:not(.eyebrow) {
+  margin-inline: auto;
+  max-width: 31rem;
+}
+
+.yoga-practice-notes {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: clamp(2rem, 5vw, 5rem);
+  margin-top: clamp(3rem, 6vw, 6rem);
+}
+
+.yoga-practice-note {
+  border-top: 1px solid var(--wellness-border);
+  padding-top: 1.4rem;
+}
+
+.yoga-practice-index {
+  display: block;
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  color: var(--wellness-copper);
+  font-size: 1.4rem;
+  margin-bottom: 1.3rem;
+}
+
+.yoga-practice-note h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 400;
+  font-size: 2.3rem;
+  margin: 0 0 .7rem;
+}
+
+.yoga-practice-note p {
+  font-size: .85rem;
+  line-height: 1.8;
+  max-width: 19rem;
+  margin: 0;
+}
+
+.yoga-guidance-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: clamp(2.5rem, 7vw, 7rem);
+  align-items: center;
+}
+
+.yoga-guidance-photo .wellness-photo {
+  aspect-ratio: 1;
+}
+
+.yoga-agung-photo .wellness-photo {
+  height: clamp(24rem, 46vw, 42rem);
+  max-height: 70vh;
+}
+
+.yoga-valley-grid {
+  padding-block: clamp(4.5rem, 8vw, 8rem);
+}
+
+.yoga-rice-photo .wellness-photo {
+  aspect-ratio: 3 / 2;
+}
+
+.yoga-final-section {
+  background: var(--wellness-green);
+  color: var(--wellness-ivory);
+}
+
+.yoga-final-inner {
+  text-align: center;
+}
+
+.yoga-final-inner > p:not(.eyebrow) {
+  margin-inline: auto;
+}
+
+.yoga-final-inner .wellness-link-pair {
+  justify-content: center;
+}
+
+@media (max-width: 1000px) {
+  .spa-care-details {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .spa-care-thought {
+    grid-column: 1 / -1;
+    grid-row: 1;
+    text-align: center;
+    padding-bottom: 1.3rem;
+  }
+
+  .wellness-display-copy br {
+    display: none;
+  }
+
+  .spa-care-head .wellness-photo,
+  .spa-care-closeup .wellness-photo {
+    aspect-ratio: 1;
+  }
+
+  .spa-menu-grid {
+    grid-template-columns: .85fr 1.15fr;
+    gap: 2.5rem;
+  }
+
+  .spa-treatment > summary {
+    gap: .6rem;
+    grid-template-columns: 1.4rem 1fr 1.65rem;
+  }
+}
+
+@media (max-width: 760px) {
+  .yoga-page .hero-split .hero-photo {
+    grid-row: 1;
+    object-fit: contain;
+  }
+
+  .yoga-page .hero-split .hero-content {
+    grid-row: 2;
+    padding-top: 42px;
+  }
+
+  .wellness-page h2 {
+    font-size: clamp(3rem, 10vw, 4.2rem);
+  }
+
+  .spa-pause-grid,
+  .spa-signature-heading,
+  .spa-menu-grid,
+  .spa-welcome-grid,
+  .spa-final-grid,
+  .yoga-guidance-grid,
+  .yoga-valley-grid {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+
+  .spa-signature-heading {
+    gap: 1.3rem;
+  }
+
+  .spa-signature-note p {
+    max-width: 29rem;
+  }
+
+  .spa-signature-photo .wellness-photo {
+    height: auto;
+    aspect-ratio: 4 / 5;
+    object-position: 58% 55%;
+  }
+
+  .spa-signature-photo .caption,
+  .yoga-agung-photo .caption {
+    padding-inline: 1.5rem;
+  }
+
+  .spa-care-details {
+    gap: 1.2rem;
+  }
+
+  .spa-care-closeup .wellness-photo,
+  .spa-care-head .wellness-photo {
+    aspect-ratio: 4 / 5;
+  }
+
+  .spa-care-thought {
+    padding-inline: 0;
+  }
+
+  .wellness-display-copy {
+    font-size: clamp(2.5rem, 8vw, 3.5rem);
+  }
+
+  .spa-menu-intro > p:not(.eyebrow) {
+    max-width: 30rem;
+  }
+
+  .spa-treatment > summary {
+    padding-block: 1.3rem;
+  }
+
+  .spa-treatment-name {
+    font-size: 2rem;
+  }
+
+  .spa-treatment-meta {
+    letter-spacing: .08em;
+  }
+
+  .spa-treatment-description {
+    padding-inline: 2rem;
+  }
+
+  .spa-welcome-copy {
+    padding-top: 0;
+  }
+
+  .spa-welcome-photo .wellness-photo {
+    aspect-ratio: 4 / 3;
+    object-position: 55% 50%;
+  }
+
+  .spa-final-grid > .wellness-editorial {
+    grid-row: 1;
+  }
+
+  .yoga-practice-heading {
+    text-align: left;
+  }
+
+  .yoga-practice-heading > p:not(.eyebrow) {
+    margin-inline: 0;
+  }
+
+  .yoga-practice-notes {
+    grid-template-columns: 1fr;
+    gap: 1.7rem;
+  }
+
+  .yoga-practice-note {
+    display: grid;
+    grid-template-columns: 2rem 1fr;
+    column-gap: 1.2rem;
+    padding-top: 1.25rem;
+  }
+
+  .yoga-practice-index {
+    grid-row: 1 / 3;
+    margin-top: .25rem;
+  }
+
+  .yoga-practice-note h3 {
+    font-size: 2.25rem;
+  }
+
+  .yoga-practice-note p {
+    max-width: 26rem;
+  }
+
+  .yoga-agung-photo .wellness-photo {
+    height: auto;
+    max-height: none;
+    aspect-ratio: 4 / 3;
+  }
+
+  .yoga-final-inner {
+    text-align: left;
+  }
+
+  .yoga-final-inner > p:not(.eyebrow) {
+    margin-inline: 0;
+  }
+
+  .yoga-final-inner .wellness-link-pair {
+    justify-content: flex-start;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .spa-treatment-toggle::after {
+    transition: none;
+  }
+}

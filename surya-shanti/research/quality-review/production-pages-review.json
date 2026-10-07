@@ -1,0 +1,91 @@
+{
+  "results": [
+    {
+      "route": "/",
+      "status": 200,
+      "title": "Sun, peace, Sidemen — Surya Shanti Villa",
+      "heading": "Surya\nShanti."
+    },
+    {
+      "route": "/rooms",
+      "status": 200,
+      "title": "Rooms & villas — Surya Shanti Villa",
+      "heading": "A little room\nto be yourself."
+    },
+    {
+      "route": "/rooms/agung-view",
+      "status": 200,
+      "title": "Suite Agung View — Surya Shanti Villa",
+      "heading": "Suite Agung View"
+    },
+    {
+      "route": "/rooms/agung-pool-view",
+      "status": 200,
+      "title": "Suite Agung Pool View — Surya Shanti Villa",
+      "heading": "Suite Agung Pool View"
+    },
+    {
+      "route": "/rooms/deluxe-valley-view",
+      "status": 200,
+      "title": "Deluxe Room Valley View — Surya Shanti Villa",
+      "heading": "Deluxe Room Valley View"
+    },
+    {
+      "route": "/rooms/mezzanine-family-villa",
+      "status": 200,
+      "title": "Mezzanine Family Villa — Surya Shanti Villa",
+      "heading": "Mezzanine Family Villa"
+    },
+    {
+      "route": "/rooms/joglo-saraswati",
+      "status": 200,
+      "title": "Joglo Saraswati — Surya Shanti Villa",
+      "heading": "Joglo Saraswati"
+    },
+    {
+      "route": "/spa",
+      "status": 200,
+      "title": "Spa & rituals — Surya Shanti Villa",
+      "heading": "A little time\nto be still."
+    },
+    {
+      "route": "/yoga",
+      "status": 200,
+      "title": "Yoga in Sidemen — Surya Shanti Villa",
+      "heading": "Breathe with\nthe valley."
+    },
+    {
+      "route": "/dining",
+      "status": 200,
+      "title": "Dining at Surya Shanti — Surya Shanti Villa",
+      "heading": "At the table,\nin Sidemen."
+    },
+    {
+      "route": "/our-story",
+      "status": 200,
+      "title": "Our story — Surya Shanti Villa",
+      "heading": "It began with\nfriendship."
+    },
+    {
+      "route": "/experiences",
+      "status": 200,
+      "title": "Experiences in Sidemen — Surya Shanti Villa",
+      "heading": "Days shaped\nby Sidemen."
+    },
+    {
+      "route": "/gallery",
+      "status": 200,
+      "title": "Surya Shanti in photographs — Surya Shanti Villa",
+      "heading": "Surya Shanti,\nin photographs."
+    },
+    {
+      "route": "/contact",
+      "status": 200,
+      "title": "Contact & plan your stay — Surya Shanti Villa",
+      "heading": "Let’s make\nroom for you."
+    }
+  ],
+  "errors": [],
+  "external": [],
+  "failures": []
+}

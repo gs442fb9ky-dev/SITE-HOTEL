@@ -1,0 +1,162 @@
+[
+  {
+    "viewport": 1440,
+    "route": "/contact?interest=Experiences%20in%20Sidemen",
+    "text": "Plan your time in Sidemen↗",
+    "url": "http://127.0.0.1:5174/contact?interest=Experiences%20in%20Sidemen",
+    "title": "Let’s makeroom for you.",
+    "interest": "Experiences in Sidemen"
+  },
+  {
+    "viewport": 1440,
+    "route": "/contact?interest=Walking%20and%20trekking",
+    "text": "Ask about a guided walk↗",
+    "url": "http://127.0.0.1:5174/contact?interest=Walking%20and%20trekking",
+    "title": "Let’s makeroom for you.",
+    "interest": "Walking and trekking"
+  },
+  {
+    "viewport": 1440,
+    "route": "/contact?interest=Balinese%20cooking%20class",
+    "text": "Ask about a cooking class↗",
+    "url": "http://127.0.0.1:5174/contact?interest=Balinese%20cooking%20class",
+    "title": "Let’s makeroom for you.",
+    "interest": "Balinese cooking class"
+  },
+  {
+    "viewport": 1440,
+    "route": "/contact?interest=Morning%20prayer",
+    "text": "Ask the team about joining↗",
+    "url": "http://127.0.0.1:5174/contact?interest=Morning%20prayer",
+    "title": "Let’s makeroom for you.",
+    "interest": "Morning prayer"
+  },
+  {
+    "viewport": 1440,
+    "route": "/contact?interest=Pasraman%20Vidya%20Giri",
+    "text": "Ask about visiting Pasraman↗",
+    "url": "http://127.0.0.1:5174/contact?interest=Pasraman%20Vidya%20Giri",
+    "title": "Let’s makeroom for you.",
+    "interest": "Pasraman Vidya Giri"
+  },
+  {
+    "viewport": 1440,
+    "route": "/our-story",
+    "text": "Discover the people behind Surya Shanti↗",
+    "url": "http://127.0.0.1:5174/our-story",
+    "title": "It began withfriendship.",
+    "interest": null
+  },
+  {
+    "viewport": 1440,
+    "route": "/contact?interest=Other%20activities%20around%20Sidemen",
+    "text": "Discuss the possibilities↗",
+    "url": "http://127.0.0.1:5174/contact?interest=Other%20activities%20around%20Sidemen",
+    "title": "Let’s makeroom for you.",
+    "interest": "Other activities around Sidemen"
+  },
+  {
+    "viewport": 1440,
+    "route": "/yoga",
+    "text": "Yoga",
+    "url": "http://127.0.0.1:5174/yoga",
+    "title": "Breathe withthe valley.",
+    "interest": null
+  },
+  {
+    "viewport": 1440,
+    "route": "/spa",
+    "text": "Spa",
+    "url": "http://127.0.0.1:5174/spa",
+    "title": "A little timeto be still.",
+    "interest": null
+  },
+  {
+    "viewport": 1440,
+    "route": "/our-story",
+    "text": "Our story",
+    "url": "http://127.0.0.1:5174/our-story",
+    "title": "It began withfriendship.",
+    "interest": null
+  },
+  {
+    "viewport": 390,
+    "route": "/contact?interest=Experiences%20in%20Sidemen",
+    "text": "Plan your time in Sidemen↗",
+    "url": "http://127.0.0.1:5174/contact?interest=Experiences%20in%20Sidemen",
+    "title": "Let’s makeroom for you.",
+    "interest": "Experiences in Sidemen"
+  },
+  {
+    "viewport": 390,
+    "route": "/contact?interest=Walking%20and%20trekking",
+    "text": "Ask about a guided walk↗",
+    "url": "http://127.0.0.1:5174/contact?interest=Walking%20and%20trekking",
+    "title": "Let’s makeroom for you.",
+    "interest": "Walking and trekking"
+  },
+  {
+    "viewport": 390,
+    "route": "/contact?interest=Balinese%20cooking%20class",
+    "text": "Ask about a cooking class↗",
+    "url": "http://127.0.0.1:5174/contact?interest=Balinese%20cooking%20class",
+    "title": "Let’s makeroom for you.",
+    "interest": "Balinese cooking class"
+  },
+  {
+    "viewport": 390,
+    "route": "/contact?interest=Morning%20prayer",
+    "text": "Ask the team about joining↗",
+    "url": "http://127.0.0.1:5174/contact?interest=Morning%20prayer",
+    "title": "Let’s makeroom for you.",
+    "interest": "Morning prayer"
+  },
+  {
+    "viewport": 390,
+    "route": "/contact?interest=Pasraman%20Vidya%20Giri",
+    "text": "Ask about visiting Pasraman↗",
+    "url": "http://127.0.0.1:5174/contact?interest=Pasraman%20Vidya%20Giri",
+    "title": "Let’s makeroom for you.",
+    "interest": "Pasraman Vidya Giri"
+  },
+  {
+    "viewport": 390,
+    "route": "/our-story",
+    "text": "Discover the people behind Surya Shanti↗",
+    "url": "http://127.0.0.1:5174/our-story",
+    "title": "It began withfriendship.",
+    "interest": null
+  },
+  {
+    "viewport": 390,
+    "route": "/contact?interest=Other%20activities%20around%20Sidemen",
+    "text": "Discuss the possibilities↗",
+    "url": "http://127.0.0.1:5174/contact?interest=Other%20activities%20around%20Sidemen",
+    "title": "Let’s makeroom for you.",
+    "interest": "Other activities around Sidemen"
+  },
+  {
+    "viewport": 390,
+    "route": "/yoga",
+    "text": "Yoga",
+    "url": "http://127.0.0.1:5174/yoga",
+    "title": "Breathe withthe valley.",
+    "interest": null
+  },
+  {
+    "viewport": 390,
+    "route": "/spa",
+    "text": "Spa",
+    "url": "http://127.0.0.1:5174/spa",
+    "title": "A little timeto be still.",
+    "interest": null
+  },
+  {
+    "viewport": 390,
+    "route": "/our-story",
+    "text": "Our story",
+    "url": "http://127.0.0.1:5174/our-story",
+    "title": "It began withfriendship.",
+    "interest": null
+  }
+]
