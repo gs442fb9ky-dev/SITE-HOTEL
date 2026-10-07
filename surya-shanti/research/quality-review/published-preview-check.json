@@ -1,0 +1,78 @@
+{
+  "origin": "https://rawcdn.githack.com/gs442fb9ky-dev/SITE-HOTEL/2214f60ce56a0fa56e39e3cb7ec90ec1082a7039/docs/surya-shanti",
+  "results": [
+    {
+      "route": "/",
+      "title": "Sun, peace, Sidemen — Surya Shanti Villa",
+      "heroLoaded": true
+    },
+    {
+      "route": "/rooms",
+      "title": "Rooms & villas — Surya Shanti Villa",
+      "heroLoaded": true
+    },
+    {
+      "route": "/rooms/agung-view",
+      "title": "Suite Agung View — Surya Shanti Villa",
+      "heroLoaded": true
+    },
+    {
+      "route": "/rooms/agung-pool-view",
+      "title": "Suite Agung Pool View — Surya Shanti Villa",
+      "heroLoaded": true
+    },
+    {
+      "route": "/rooms/deluxe-valley-view",
+      "title": "Deluxe Room Valley View — Surya Shanti Villa",
+      "heroLoaded": true
+    },
+    {
+      "route": "/rooms/mezzanine-family-villa",
+      "title": "Mezzanine Family Villa — Surya Shanti Villa",
+      "heroLoaded": true
+    },
+    {
+      "route": "/rooms/joglo-saraswati",
+      "title": "Joglo Saraswati — Surya Shanti Villa",
+      "heroLoaded": true
+    },
+    {
+      "route": "/spa",
+      "title": "Spa & rituals — Surya Shanti Villa",
+      "heroLoaded": true
+    },
+    {
+      "route": "/yoga",
+      "title": "Yoga in Sidemen — Surya Shanti Villa",
+      "heroLoaded": true
+    },
+    {
+      "route": "/dining",
+      "title": "Dining at Surya Shanti — Surya Shanti Villa",
+      "heroLoaded": true
+    },
+    {
+      "route": "/our-story",
+      "title": "Our story — Surya Shanti Villa",
+      "heroLoaded": true
+    },
+    {
+      "route": "/experiences",
+      "title": "Experiences in Sidemen — Surya Shanti Villa",
+      "heroLoaded": true
+    },
+    {
+      "route": "/gallery",
+      "title": "Surya Shanti in photographs — Surya Shanti Villa",
+      "heroLoaded": true
+    },
+    {
+      "route": "/contact",
+      "title": "Contact & plan your stay — Surya Shanti Villa",
+      "heroLoaded": true
+    }
+  ],
+  "downloads": 66,
+  "errors": [],
+  "transport": "TLS-verified curl; Chromium renders published bodies with their original URLs"
+}

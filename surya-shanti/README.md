@@ -19,3 +19,9 @@ Depuis `/workspace/SITE-HOTEL`, lancer `npm run dev:surya`. Le serveur Vite util
 ## Revue finale
 
 Les deux passes ont été effectuées : validation des faits et des interactions, puis revue artistique complète des 14 pages sur ordinateur et téléphone. Les 37 tests passent. Les 14 adresses physiques de la version statique ont été ouvertes et rechargées ; aucune requête externe n’est nécessaire pour les photos ou les polices. Voir `research/quality-review.md` et les rapports détaillés sous `research/quality-review/`. Le crédit du design se personnalise dans le navigateur avec le fragment `#name=Sarah%20Castel` du lien initial ; il est conservé pendant la navigation interne.
+
+## Aperçu public vérifié
+
+https://rawcdn.githack.com/gs442fb9ky-dev/SITE-HOTEL/2214f60ce56a0fa56e39e3cb7ec90ec1082a7039/docs/surya-shanti/index.html#name=Sarah%20Castel
+
+Les 14 adresses publiques et 66 ressources du rendu ont été vérifiées par HTTPS avec les certificats de confiance de l’environnement. Chromium a rendu les contenus publiés sous leurs adresses originales ; galerie et crédit ont été contrôlés. Voir `research/quality-review/published-preview-check.json`.
