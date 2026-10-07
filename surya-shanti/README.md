@@ -22,6 +22,8 @@ Les deux passes ont été effectuées : validation des faits et des interactions
 
 ## Aperçu public vérifié
 
-https://rawcdn.githack.com/gs442fb9ky-dev/SITE-HOTEL/2214f60ce56a0fa56e39e3cb7ec90ec1082a7039/docs/surya-shanti/index.html#name=Sarah%20Castel
+https://rawcdn.githack.com/gs442fb9ky-dev/SITE-HOTEL/633e238d38e778fd14a98860194ec3ae8bf5c470/docs/surya-shanti/index.html#name=Sarah%20Castel
 
 Les 14 adresses publiques et 66 ressources du rendu ont été vérifiées par HTTPS avec les certificats de confiance de l’environnement. Chromium a rendu les contenus publiés sous leurs adresses originales ; galerie et crédit ont été contrôlés. Voir `research/quality-review/published-preview-check.json`.
+
+La version mise à jour échange les deux grandes photographies de l’accueil : vue aérienne en première image, piscine au crépuscule dans la section suivante. Construction et revue à 1440/390 px réussies.
