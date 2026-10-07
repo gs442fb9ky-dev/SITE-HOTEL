@@ -7,7 +7,7 @@ const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'../..');
 const out=path.join(root,'docs/surya-shanti-proposal');
 const template=fs.readFileSync('/workspace/previsualisation/Surya-Shanti-summary-template.pdf');
 const pdf=await PDFDocument.load(template);
-if(pdf.getPageCount()!==3)throw new Error('The summary must contain exactly three pages.');
+if(pdf.getPageCount()!==8)throw new Error('The expanded proposal must contain exactly eight pages.');
 if(pdf.getForm().getFields().some(field=>field.getText()))throw new Error('The public template contains personal details.');
 fs.mkdirSync(out,{recursive:true});
 fs.writeFileSync(path.join(out,'summary-template.pdf'),template);
@@ -19,7 +19,7 @@ const html=`<!doctype html>
 </style></head><body><main>
 <p class="eyebrow">SURYA SHANTI VILLA · PRÉSENTATION DU PROJET</p>
 <h1>Votre présentation,<br>prête à envoyer.</h1>
-<p>Un PDF de trois pages en anglais, avec les aperçus du nouveau site, les principales améliorations et une proposition de collaboration.</p>
+<p>Un dossier de huit pages en anglais, avec de grands aperçus du site, des pages consacrées aux chambres, au Spa, au Yoga, au Restaurant et à votre histoire, puis une proposition de collaboration.</p>
 <div class="controls"><label>Votre nom<input id="name" autocomplete="name" maxlength="50"></label><label>Votre numéro<input id="phone" type="tel" autocomplete="tel" maxlength="35"></label></div>
 <button id="generate" type="button">Préparer le PDF</button><a id="download" class="download" hidden>Télécharger le PDF</a><a id="open" class="open" hidden target="_blank" rel="noopener">Ouvrir le PDF</a>
 <p id="status" role="status"></p><iframe id="viewer" title="Aperçu de votre présentation PDF" hidden></iframe>
@@ -43,10 +43,10 @@ async function generate(){
   form.flatten();pdf.setAuthor(name);pdf.setSubject('Website concept and design by '+name+'. Shared for evaluation only. Hotel photography credited separately.');
   const result=await pdf.save();if(currentURL)URL.revokeObjectURL(currentURL);
   currentURL=URL.createObjectURL(new Blob([result],{type:'application/pdf'}));
-  const download=document.getElementById('download');download.href=currentURL;download.download='Surya-Shanti-Website-Proposal-'+name.replace(/[^a-zA-Z0-9 -]/g,'').trim().replace(/ +/g,'-')+'.pdf';download.hidden=false;
+  const download=document.getElementById('download');download.href=currentURL;download.download='Surya-Shanti-Expanded-Website-Proposal-'+name.replace(/[^a-zA-Z0-9 -]/g,'').trim().replace(/ +/g,'-')+'.pdf';download.hidden=false;
   const open=document.getElementById('open');open.href=currentURL;open.hidden=false;
   const viewer=document.getElementById('viewer');viewer.src=currentURL;viewer.hidden=false;
-  button.textContent='Actualiser le PDF';status.textContent='Votre PDF de trois pages est prêt. Cliquez sur « Télécharger le PDF ».';
+  button.textContent='Actualiser le PDF';status.textContent='Votre présentation de huit pages est prête. Cliquez sur « Télécharger le PDF ».';
  }catch(error){status.textContent='Le PDF n’a pas pu être préparé. Rechargez cette page et réessayez.';}
  finally{button.disabled=false;}
 }
@@ -54,4 +54,4 @@ document.getElementById('generate').addEventListener('click',generate);
 if(nameInput.value&&phoneInput.value)generate();
 </script></body></html>`;
 fs.writeFileSync(path.join(out,'index.html'),html);
-console.log('Three-page PDF download prepared, with personal details added only in the browser.');
+console.log('Eight-page PDF download prepared, with personal details added only in the browser.');

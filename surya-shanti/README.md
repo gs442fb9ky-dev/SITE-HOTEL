@@ -28,10 +28,10 @@ Les 14 adresses publiques et 66 ressources du rendu ont été vérifiées par HT
 
 La version mise à jour échange les deux grandes photographies de l’accueil : vue aérienne en première image, piscine au crépuscule dans la section suivante. Construction et revue à 1440/390 px réussies.
 
-## Présentation PDF résumée
+## Dossier de présentation PDF
 
-`docs/surya-shanti-proposal/` fournit un téléchargement de trois pages en anglais : vision avec aperçu du nouvel accueil, principales améliorations et proposition de collaboration avec aperçu mobile. Le nom et le numéro sont ajoutés dans le navigateur depuis le fragment du lien ; le modèle publié ne contient aucune coordonnée personnelle. Le PDF final comporte le crédit du design, celui des photographies de l’hôtel et aucun champ éditable.
+`docs/surya-shanti-proposal/` fournit un téléchargement de huit pages en anglais : accueil, chambres, Spa, Yoga, Restaurant, Our Story, parcours mobile et collaboration. De grands aperçus du site et des textes propres à l’hôtel rendent la proposition concrète. Le nom et le numéro sont ajoutés dans le navigateur depuis le fragment du lien ; le modèle publié ne contient aucune coordonnée personnelle. Le PDF final comporte le crédit du design, celui des photographies de l’hôtel et aucun champ éditable.
 
 Pour refaire le document avec le serveur Surya lancé : `node surya-shanti/scripts/capture-summary.mjs`, puis `python surya-shanti/scripts/create-summary.py`, puis `node surya-shanti/scripts/build-summary-download.mjs`. Python utilise ReportLab et FontTools ; les polices proviennent des dépendances existantes. La version personnelle et les captures restent dans `/workspace/previsualisation`, hors du dépôt. Le dossier publié est séparé de la sortie Vite pour être conservé lors d’une reconstruction du site.
 
-Téléchargements vérifiés sur ordinateur et téléphone : PDF de trois pages, environ 1,2 Mo, auteur et numéro exacts, aucun débordement, aucune erreur JavaScript. Les trois pages ont été rendues et examinées ; textes et faits ont été relus.
+Téléchargements vérifiés sur ordinateur et téléphone : PDF de huit pages, environ 2,8 Mo, auteur et numéro exacts, aucun débordement, aucune erreur JavaScript. Les huit pages ont été rendues et examinées ; textes et faits ont été relus.
