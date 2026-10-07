@@ -19,9 +19,9 @@ def page(n,kicker,title,subtitle=None):
  c.setStrokeColor(line);c.line(48,37,W-48,37);text(48,22,'BAJALO COTTAGE CANGGU · UNOFFICIAL REDESIGN PROPOSAL',size=8,color=muted);text(W-100,22,f'{n:02d} / 06',size=8,color=muted)
 def picture(file,x,y,w,h,fit='contain',position=(.5,.5)):
  im=Image.open(file).convert('RGB')
- if fit=='cover':im=ImageOps.fit(im,(int(w*1.8),int(h*1.8)),centering=position)
- else:im.thumbnail((int(w*1.8),int(h*1.8)))
- b=BytesIO();im.save(b,'JPEG',quality=88);b.seek(0);c.drawImage(ImageReader(b),x,y,width=w,height=h,preserveAspectRatio=fit!='cover',anchor='c',mask='auto')
+ if fit=='cover':im=ImageOps.fit(im,(int(w*1.5),int(h*1.5)),centering=position)
+ else:im.thumbnail((int(w*1.5),int(h*1.5)))
+ b=BytesIO();im.save(b,'JPEG',quality=82);b.seek(0);c.drawImage(ImageReader(b),x,y,width=w,height=h,preserveAspectRatio=fit!='cover',anchor='c',mask='auto')
 def lines(x,y,items,size=13,leading=25):
  for t in items:text(x,y,t,size=size);y-=leading
 page(1,'A NEW ONLINE PRESENCE FOR BAJALO','A vision for your next website.','A redesign concept that puts your hotel’s real photography at the heart of the experience.')
